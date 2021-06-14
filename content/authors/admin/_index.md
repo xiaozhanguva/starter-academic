@@ -4,10 +4,7 @@ avatar_filename: xiaozhang.jpg
 bio: My research interests include a variety of topics in machine learning and
   security, including adversarial machine learning, deep learning,
   convex/non-convex optimization and low-rank matrix recovery
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -25,27 +22,15 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Virginia
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: University of Virginia
+      year: ""
 superuser: true
 highlight_name: false
 title: Xiao Zhang
 email: ""
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I am currently a third-year Ph.D. student in <a href="https://engineering.virginia.edu/departments/computer-science" target="_blank" title=" ">Department of Computer Science</a> at <a href="http://www.virginia.edu/" target="_blank" title=" ">University of Virginia</a>, advised by <a href="https://www.cs.virginia.edu/~evans/" target="_blank" title=" ">Prof. David Evans</a>. Previously, I worked with <a href="https://web.cs.ucla.edu/~qgu/" target="_blank" title=" ">Prof. Quanquan Gu</a>. I received my M.S. degree from <a href = "https://statistics.as.virginia.edu/" target="_blank" title=" ">Department of Statistics</a> at University of Virginia and my B.S. degree in Mathematics at <a href = "https://www.tsinghua.edu.cn/" target="_blank" title=" ">Tsinghua University</a>. My research interests include a variety of topics in machine learning and security, including adversarial machine learning, deep learning, convex/non-convex optimization and low-rank matrix recovery.

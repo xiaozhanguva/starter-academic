@@ -30,10 +30,10 @@ education:
       year: ""
     - course: MS in Statistics
       institution: University of Virginia
-      year: ""
+      year: 2017
     - course: BS in Mathematics
       institution: Tsinghua University
-      year: ""
+      year: 2015
 superuser: true
 highlight_name: false
 title: Xiao Zhang

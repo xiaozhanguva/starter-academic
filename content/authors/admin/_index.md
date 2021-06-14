@@ -1,6 +1,6 @@
 ---
 role: ""
-avatar_filename: xiaozhang.jpg
+avatar_filename: null
 bio: My research interests include a variety of topics in machine learning and
   security, including adversarial machine learning, deep learning,
   convex/non-convex optimization and low-rank matrix recovery
@@ -27,6 +27,12 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Virginia
+      year: ""
+    - course: MS in Statistics
+      institution: University of Virginia
+      year: ""
+    - course: BS in Mathematics
+      institution: Tsinghua University
       year: ""
 superuser: true
 highlight_name: false

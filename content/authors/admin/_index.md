@@ -11,9 +11,7 @@ organizations:
   - name: University of Virginia
     url: http://www.virginia.edu/
 
-bio: My research interests include a variety of topics in machine learning and
-     security, including adversarial machine learning, deep learning,
-     convex/non-convex optimization and low-rank matrix recovery
+bio: My research interests inclue machine learning security, deep learning and optimization.
 
 interests: 
 - Adversarial Machine Learning

@@ -5,7 +5,7 @@ superuser: true
 
 role: "CS PhD Candidate"
 
-avatar_filename: "./xiaozhang.jpg"
+avatar_filename: "avatar.jpg"
 
 organizations:
   - name: University of Virginia
@@ -19,6 +19,7 @@ interests:
 - Adversarial Machine Learning
 - Deep Learning
 - Optimization
+- High Dimensional Statistics
 
 education:
   courses:
@@ -48,7 +49,7 @@ social:
 
 highlight_name: false
 
-email: "xz7bc@virginia.edu"
+email: "shawn@virginia.edu"
 ---
 
 I am a final-year Ph.D. student in <a href="https://engineering.virginia.edu/departments/computer-science" target="_blank" title=" ">Department of Computer Science</a> at <a href="http://www.virginia.edu/" target="_blank" title=" ">University of Virginia</a>, advised by <a href="https://www.cs.virginia.edu/~evans/" target="_blank" title=" ">Prof. David Evans</a>. Previously, I worked with <a href="https://web.cs.ucla.edu/~qgu/" target="_blank" title=" ">Prof. Quanquan Gu</a>. I received my M.S. degree from <a href = "https://statistics.as.virginia.edu/" target="_blank" title=" ">Department of Statistics</a> at University of Virginia and my B.S. degree in Mathematics at <a href = "https://www.tsinghua.edu.cn/" target="_blank" title=" ">Tsinghua University</a>. My research interests include a variety of topics in machine learning and security, including adversarial machine learning, deep learning, convex/non-convex optimization and low-rank matrix recovery.

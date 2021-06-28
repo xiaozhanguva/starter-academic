@@ -36,10 +36,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-tags: 
-- Adversarial Examples
-- Concentration of Measure
-- Intrinsic Robustness
+tags: []
 
 # Is this a featured talk? (true/false)
 featured: false

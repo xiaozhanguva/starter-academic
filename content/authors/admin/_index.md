@@ -45,9 +45,17 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/xiao-zhang-05898a13a/
 
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+  # - icon: cv
+  #   icon_pack: ai
+  #   link: uploads/resume.pdf
+
+
 highlight_name: false
 
 email: ''
 ---
 
-I am a final-year Ph.D. student in <a href="https://engineering.virginia.edu/departments/computer-science" target="_blank" title=" ">Department of Computer Science</a> at <a href="http://www.virginia.edu/" target="_blank" title=" ">University of Virginia</a>, advised by <a href="https://www.cs.virginia.edu/~evans/" target="_blank" title=" ">Prof. David Evans</a>. Previously, I worked with <a href="https://web.cs.ucla.edu/~qgu/" target="_blank" title=" ">Prof. Quanquan Gu</a>. I received my M.S. degree from <a href = "https://statistics.as.virginia.edu/" target="_blank" title=" ">Department of Statistics</a> at University of Virginia and my B.S. degree in Mathematics at <a href = "https://www.tsinghua.edu.cn/" target="_blank" title=" ">Tsinghua University</a>. My research interests include a variety of topics in machine learning and security, including adversarial machine learning, deep learning, convex/non-convex optimization and low-rank matrix recovery.
+I am a final-year Ph.D. student in [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at [University of Virginia](http://www.virginia.edu/), advised by [Prof. David Evans](https://www.cs.virginia.edu/~evans/). Previously, I worked with [Prof. Quanquan Gu](https://web.cs.ucla.edu/~qgu/). I received my M.S. degree from [Department of Statistics](https://statistics.as.virginia.edu/) at University of Virginia and my B.S. degree in Mathematics at [Tsinghua University](https://www.tsinghua.edu.cn/). My research interests include a variety of topics in machine learning and security, including adversarial machine learning, deep learning, convex/non-convex optimization and low-rank matrix recovery.

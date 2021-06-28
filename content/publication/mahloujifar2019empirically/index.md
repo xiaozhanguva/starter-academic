@@ -7,6 +7,7 @@ title: "Empirically Measuring Concentration: Fundamental Limits to Intrinsic Rob
 authors:
 - Saeed Mahloujifar
 - Xiao Zhang
+- Mohammad Mahmoody
 - David Evans
 
 # Author notes (optional)
@@ -14,7 +15,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 
-date: "2019-10-28T00:00:00Z"
+date: "2019-12-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,8 +28,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Thirty-third Conference on Neural Information Processing Systems
-publication_short: NeurIPS 2019
+publication: Thirty-third Conference on Neural Information Processing Systems 
+publication_short: NeurIPS 2019 (Spotlight)
 
 abstract: Many recent works have shown that adversarial examples that fool classifiers can be found by minimally perturbing a normal input. Recent theoretical results, starting with Gilmer et al. (2018b), show that if the inputs are drawn from a concentrated metric probability space, then adversarial examples with small perturbation are inevitable. A concentrated space has the property that any subset with Ω(1) (e.g., 1/100) measure, according to the imposed distribution, has small distance to almost all (e.g., 99/100) of the points in the space. It is not clear, however, whether these theoretical results apply to actual distributions such as images. This paper presents a method for empirically measuring and bounding the concentration of a concrete dataset which is proven to converge to the actual concentration. We use it to empirically estimate the intrinsic robustness to l∞ and l2 perturbations of several image classification benchmarks. Code for our experiments is available at https://github.com/xiaozhanguva/Measure-Concentration.
 
@@ -82,6 +83,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+Preliminary versions of this work were presented at [Safe Machine Learning](https://sites.google.com/view/safeml-iclr2019) and [Debugging ML Models](https://debug-ml-iclr2019.github.io/) at ICLR 2019, as well as [Uncertainty & Robustness in Deep Learning Workshop](https://sites.google.com/view/udlworkshop2019/) at ICML 2019.
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -90,5 +92,3 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->

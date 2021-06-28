@@ -1,20 +1,21 @@
 ---
-title: "Improved Estimation of Concentration Under Lp-Norm Distance Metric Using Half Spaces"
+title: "Robust Wirtinger Flow for Phase Retrieval with Arbitrary Corruption"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jack Prescott
+- Jinghui Chen
+- Lingxiao Wang
 - Xiao Zhang
-- David Evans
+- Quanquan Gu
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-05-04T00:00:00Z"
+date: "2017-04-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,21 +25,21 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Tenth International Conference on Learning Representations
-publication_short: ICLR 2021
+publication:  ArXiv
+# publication_short: arxiv
 
-abstract: Concentration of measure has been argued to be the fundamental cause of adversarial vulnerability. Mahloujifar et al. (2019) presented an empirical way to measure the concentration of a data distribution using samples, and employed it to find lower bounds on intrinsic robustness for several benchmark datasets. However, it remains unclear whether these lower bounds are tight enough to provide a useful approximation for the intrinsic robustness of a dataset. To gain a deeper understanding of the concentration of measure phenomenon, we first extend the Gaussian Isoperimetric Inequality to non-spherical Gaussian measures and arbitrary Lp-norms (p>=2). We leverage these theoretical insights to design a method that uses half-spaces to estimate the concentration of any empirical dataset under Lp-norm distance metrics. Our proposed algorithm is more efficient than Mahloujifar et al. (2019)'s, and experiments on synthetic datasets and image benchmarks demonstrate that it is able to find much tighter intrinsic robustness bounds. These tighter estimates provide further evidence that rules out intrinsic dataset concentration as a possible explanation for the adversarial vulnerability of state-of-the-art classifiers.
+abstract: We consider the phase retrieval problem of recovering the unknown signal from the magnitude-only measurements, where the measurements can be contaminated by both sparse arbitrary corruption and bounded random noise. We propose a new nonconvex algorithm for robust phase retrieval, namely Robust Wirtinger Flow, to jointly estimate the unknown signal and the sparse corruption. We show that our proposed algorithm is guaranteed to converge linearly to the unknown true signal up to a minimax optimal statistical precision in such a challenging setting. Compared with existing robust phase retrieval methods, we improved the statistical error rate by a factor of (n/m)^(1/2) where n is the dimension of the signal and m is the sample size, provided a refined characterization of the corruption fraction requirement, and relaxed the lower bound condition on the number of corruption. In the noise-free case, our algorithm converges to the unknown signal at a linear rate and achieves optimal sample complexity up to a logarithm factor. Thorough experiments on both synthetic and real datasets corroborate our theory.
 
 # Summary. An optional shortened abstract.
-summary: We show that concentration of measure does not prohibit the existence of adversarially robust classifiers using a novel method of empirical concentration estimation.
+summary: A new nonconvex algorithm for robust phase retrieval, which attains a linear rate of convergence and improved statistical error rate.
 
 tags: 
-- Adversarial Examples
-- Concentration of Measure
-- Intrinsic Robustness
+- Phase Retrieval
+- Algorithm
+- Nonconvex Optimization
 
 # Display this page in the Featured widget?
 featured: false
@@ -46,22 +47,19 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: ArXiv
-  url: 'https://arxiv.org/abs/2103.12913'
+  url: 'https://arxiv.org/abs/1704.06256'
   
-- name: OpenReview
-  url: 'https://openreview.net/forum?id=BUlyHkzjgmA'
+# - name: Link
+#   url: 'http://proceedings.mlr.press/v70/wang17n'
 
-- name: Post
-  url: 'https://uvasrg.github.io/improved-estimation-of-concentration-iclr-2021/'
-
-url_pdf: 'https://openreview.net/pdf?id=BUlyHkzjgmA'
-url_code: 'https://github.com/jackbprescott/EMC_HalfSpaces'
+# url_pdf: 'http://proceedings.mlr.press/v70/wang17n/wang17n.pdf'
+# url_code: 'https://github.com/xiaozhanguva/LR-SVRG'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-# url_video: ''
+# url_video: 'https://vimeo.com/240662546'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -76,7 +74,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- prescott2021improved
+- chen2017robust
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

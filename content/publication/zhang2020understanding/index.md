@@ -1,20 +1,21 @@
 ---
-title: "Improved Estimation of Concentration Under Lp-Norm Distance Metric Using Half Spaces"
+title: "Understanding the intrinsic robustness of image distributions using conditional generative models"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jack Prescott
 - Xiao Zhang
+- Jinghui Chen
+- Quanquan Gu
 - David Evans
 
 # Author notes (optional)
-# author_notes:
-# - "Equal contribution"
-# - "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 
-date: "2021-05-04T00:00:00Z"
+date: "2020-08-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,18 +28,18 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Tenth International Conference on Learning Representations
-publication_short: ICLR 2021
+publication: Twenty-Third International Conference on Artificial Intelligence and Statistics
+publication_short: AISTATS 2020
 
-abstract: Concentration of measure has been argued to be the fundamental cause of adversarial vulnerability. Mahloujifar et al. (2019) presented an empirical way to measure the concentration of a data distribution using samples, and employed it to find lower bounds on intrinsic robustness for several benchmark datasets. However, it remains unclear whether these lower bounds are tight enough to provide a useful approximation for the intrinsic robustness of a dataset. To gain a deeper understanding of the concentration of measure phenomenon, we first extend the Gaussian Isoperimetric Inequality to non-spherical Gaussian measures and arbitrary Lp-norms (p>=2). We leverage these theoretical insights to design a method that uses half-spaces to estimate the concentration of any empirical dataset under Lp-norm distance metrics. Our proposed algorithm is more efficient than Mahloujifar et al. (2019)'s, and experiments on synthetic datasets and image benchmarks demonstrate that it is able to find much tighter intrinsic robustness bounds. These tighter estimates provide further evidence that rules out intrinsic dataset concentration as a possible explanation for the adversarial vulnerability of state-of-the-art classifiers.
+abstract: Starting with Gilmer et al. (2018), several works have demonstrated the inevitability of adversarial examples based on different assumptions about the underlying input probability space. It remains unclear, however, whether these results apply to natural image distributions. In this work, we assume the underlying data distribution is captured by some conditional generative model, and prove intrinsic robustness bounds for a general class of classifiers, which solves an open problem in Fawzi et al. (2018). Building upon the state-of-the-art conditional generative models, we study the intrinsic robustness of two common image benchmarks under L2 perturbations, and show the existence of a large gap between the robustness limits implied by our theory and the adversarial robustness achieved by current state- of-the-art robust models. Code for all our experiments is available at https://github.com/xiaozhanguva/Intrinsic- Rob.
 
 # Summary. An optional shortened abstract.
-summary: We show that concentration of measure does not prohibit the existence of adversarially robust classifiers using a novel method of empirical concentration estimation.
+summary: We propose a way to characterize the intrinsic robustness of image distributions under L2 perturbations using conditional generative models.
 
 tags: 
 - Adversarial Examples
-- Concentration of Measure
 - Intrinsic Robustness
+- Generative Models
 
 # Display this page in the Featured widget?
 featured: false
@@ -46,16 +47,13 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: ArXiv
-  url: 'https://arxiv.org/abs/2103.12913'
+  url: 'https://arxiv.org/abs/2003.00378'
   
-- name: OpenReview
-  url: 'https://openreview.net/forum?id=BUlyHkzjgmA'
+- name: Link
+  url: 'http://proceedings.mlr.press/v108/zhang20h.html'
 
-- name: Post
-  url: 'https://uvasrg.github.io/improved-estimation-of-concentration-iclr-2021/'
-
-url_pdf: 'https://openreview.net/pdf?id=BUlyHkzjgmA'
-url_code: 'https://github.com/jackbprescott/EMC_HalfSpaces'
+url_pdf: 'http://proceedings.mlr.press/v108/zhang20h/zhang20h.pdf'
+url_code: 'https://github.com/xiaozhanguva/Intrinsic-Rob'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -76,7 +74,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- prescott2021improved
+- zhang2020understanding
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

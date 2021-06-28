@@ -7,9 +7,9 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 50
 
-title: Experience
+title: Professional Experience
 subtitle:
 
 # Date format for experience
@@ -21,29 +21,16 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+experience:  
+  - title: Machine Learning Research Intern
+    company: Robert Bosch LLC
+    company_url: 'https://www.bosch.us/our-company/bosch-in-the-usa/pittsburgh/'
+    # company_logo: org-x
+    location: Pittsburgh
+    date_start: '2020-06-02'
+    date_end: '2020-10-02'
+    description: "Building efficient adversarially robust classification models using meta learning techniques (mentor: [Anit Kumar Sahu](https://anitksahu.github.io))"
+
 
 design:
   columns: '2'

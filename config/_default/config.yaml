@@ -5,7 +5,7 @@
 
 title: Xiao Zhang's Personal Website # Website name
 baseurl: 'xiao-zhang.net' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'Xiao Zhang © {year}' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

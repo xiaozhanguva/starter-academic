@@ -57,7 +57,7 @@ url_code: 'https://github.com/xiaozhanguva/Intrinsic-Rob'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-# url_slides: ''
+url_slides: 'https://docs.google.com/presentation/d/1YQfRGpJQFLUcE1uZRyDc4jeA3km1xNdt1xOVX5DfHnI/edit?usp=sharing'
 # url_source: ''
 # url_video: ''
 

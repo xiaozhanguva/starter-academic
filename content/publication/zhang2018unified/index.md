@@ -55,7 +55,7 @@ links:
 url_pdf: 'http://proceedings.mlr.press/v54/wang17b/wang17b.pdf'
 url_code: 'https://github.com/xiaozhanguva/Robust-PCA'
 # url_dataset: ''
-# url_poster: ''
+url_poster: 'https://drive.google.com/file/d/12pn770ttbfJzcd4olU0DQyc6eyq2x6mz/view?usp=sharing'
 # url_project: ''
 # url_slides: ''
 # url_source: ''

@@ -54,11 +54,11 @@ links:
 url_pdf: 'http://proceedings.mlr.press/v80/zhang18b/zhang18b.pdf'
 url_code: 'https://github.com/xiaozhanguva/Inductive-MC'
 # url_dataset: ''
-# url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1pLDQ27f5jPmhycA3Jc-an8epdQ3zCrLV/view?usp=sharing'
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-url_video: 'https://vimeo.com/287767590'
+# url_video: 'https://vimeo.com/287767590'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

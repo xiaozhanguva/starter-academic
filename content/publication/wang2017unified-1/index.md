@@ -1,5 +1,5 @@
 ---
-title: "A Unified Computational and Statistical Framework for Nonconvex Low-Rank Matrix Estimation"
+title: "A Unified Variance Reduction-Based Framework for Nonconvex Low-Rank Matrix Recovery"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -55,11 +55,11 @@ links:
 url_pdf: 'http://proceedings.mlr.press/v70/wang17n/wang17n.pdf'
 url_code: 'https://github.com/xiaozhanguva/LR-SVRG'
 # url_dataset: ''
-# url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1QiCWBums-gU8x-cyrzSNbBdJhH8VJ94R/view?usp=sharing'
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-url_video: 'https://vimeo.com/240662546'
+# url_video: 'https://vimeo.com/240662546'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

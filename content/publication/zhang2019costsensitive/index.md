@@ -56,7 +56,7 @@ links:
 url_pdf: 'https://openreview.net/pdf?id=BygANhA9tQ'
 url_code: 'https://github.com/xiaozhanguva/Cost-Sensitive-Robustness'
 # url_dataset: ''
-# url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1vBJvs44KFQXxzmcWEaIKCOonjTjgeDzZ/view?usp=sharing'
 # url_project: ''
 # url_slides: ''
 # url_source: ''

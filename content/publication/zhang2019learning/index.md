@@ -56,7 +56,7 @@ links:
 url_pdf: 'http://proceedings.mlr.press/v89/zhang19g/zhang19g.pdf'
 # url_code: 'https://github.com/xiaozhanguva/Intrinsic-Rob'
 # url_dataset: ''
-# url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1DLCskW0xPldoM6an0Mh4uszgT1Fc_5cj/view?usp=sharing'
 # url_project: ''
 # url_slides: ''
 # url_source: ''

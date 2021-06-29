@@ -54,7 +54,7 @@ links:
 url_pdf: 'http://proceedings.mlr.press/v54/wang17b/wang17b.pdf'
 # url_code: 'https://github.com/xiaozhanguva/LR-SVRG'
 # url_dataset: ''
-# url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1nb89hWtPnth_SDMxnauJ4a_ql0ExMYO_/view?usp=sharing'
 # url_project: ''
 # url_slides: ''
 # url_source: ''

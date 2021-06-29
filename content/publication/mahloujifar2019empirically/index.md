@@ -57,9 +57,9 @@ url_code: 'https://github.com/xiaozhanguva/Measure-Concentration'
 # url_dataset: ''
 url_poster: 'https://drive.google.com/file/d/1_bQ0AFR7_-GVDpnDWNUirBW3tqGeGJHF/view'
 # url_project: ''
-url_slides: 'https://drive.google.com/file/d/1UIzRxpAT2fWsreTcMM1YGWRV0EyCaY50/view'
+# url_slides: 'https://drive.google.com/file/d/1UIzRxpAT2fWsreTcMM1YGWRV0EyCaY50/view'
 # url_source: ''
-url_video: 'https://drive.google.com/file/d/1z-97tgTqB5dH3WzQcE6kBOVJHizo5z7A/view'
+# url_video: 'https://drive.google.com/file/d/1z-97tgTqB5dH3WzQcE6kBOVJHizo5z7A/view'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

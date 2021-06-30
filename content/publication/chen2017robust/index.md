@@ -38,8 +38,8 @@ summary: A new nonconvex algorithm for robust phase retrieval, which attains a l
 
 tags: 
 - Phase Retrieval
-- Algorithm
 - Nonconvex Optimization
+- Algorithm
 
 # Display this page in the Featured widget?
 featured: false

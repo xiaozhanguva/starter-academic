@@ -39,8 +39,8 @@ summary: We prove theoretical guarantees of learning one-hidden-layer neural net
 
 tags: 
 - Deep Learning
-- ReLU Activation
 - Nonconvex Optimization
+- ReLU Activation
 
 # Display this page in the Featured widget?
 featured: false

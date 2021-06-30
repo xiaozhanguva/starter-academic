@@ -37,7 +37,7 @@ summary: We propose an unsupervised learning method for obtaining robust represe
 
 tags: 
 - Adversarial Examples
-- Robust Representation
+- Representation Learning
 - Mutal Information
 
 # Display this page in the Featured widget?

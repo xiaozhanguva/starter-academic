@@ -37,8 +37,9 @@ summary: We present a new gradient-based optimization algorithm for inductive ma
 
 tags: 
 - Inductive Matrix Completion
-- Algorithm
+- Low-Rank Matrix Recovery
 - Nonconvex Optimization
+- Algorithm
 
 # Display this page in the Featured widget?
 featured: true

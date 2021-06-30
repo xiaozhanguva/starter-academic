@@ -37,9 +37,9 @@ summary: A generic framework based on a new stochastic variance-reduced gradient
 
 tags: 
 - Low-Rank Matrix Recovery
+- Nonconvex Optimization
 - Variance Reduction
 - Algorithm
-- Nonconvex Optimization
 
 # Display this page in the Featured widget?
 featured: false

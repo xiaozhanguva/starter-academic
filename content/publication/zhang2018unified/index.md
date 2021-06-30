@@ -38,8 +38,8 @@ summary: A unified framework for solving general low-rank plus sparse matrix rec
 
 tags: 
 - Low-Rank Matrix Recovery
-- Algorithm
 - Nonconvex Optimization
+- Algorithm
 
 # Display this page in the Featured widget?
 featured: false

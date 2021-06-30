@@ -38,8 +38,8 @@ summary: We develop a method to measure the concentration of image benchmarks us
 
 tags: 
 - Adversarial Examples
-- Concentration of Measure
 - Intrinsic Robustness
+- Concentration of Measure
 
 # Display this page in the Featured widget?
 featured: true

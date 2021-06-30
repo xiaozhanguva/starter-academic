@@ -37,8 +37,8 @@ summary: We show that concentration of measure does not prohibit the existence o
 
 tags: 
 - Adversarial Examples
-- Concentration of Measure
 - Intrinsic Robustness
+- Concentration of Measure
 
 # Display this page in the Featured widget?
 featured: false

@@ -37,8 +37,8 @@ summary: A unified framework for estimating low-rank matrices through nonconvex 
 
 tags: 
 - Low-Rank Matrix Recovery
-- Algorithm
 - Nonconvex Optimization
+- Algorithm
 
 # Display this page in the Featured widget?
 featured: false

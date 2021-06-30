@@ -38,8 +38,8 @@ summary: A primal-dual based framework for analyzing the global optimality of no
 
 tags: 
 - Low-Rank Matrix Recovery
-- Primal-Dual Analysis
 - Nonconvex Optimization
+- Primal-Dual Analysis
 
 # Display this page in the Featured widget?
 featured: false

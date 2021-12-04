@@ -83,7 +83,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-Short versions of this work were presented at [Safe Machine Learning](https://sites.google.com/view/safeml-iclr2019) and [Debugging ML Models](https://debug-ml-iclr2019.github.io/) at ICLR 2019, as well as [Uncertainty & Robustness in Deep Learning Workshop](https://sites.google.com/view/udlworkshop2019/) at ICML 2019.
+Short versions of this work were presented at workshops on [Safe Machine Learning](https://sites.google.com/view/safeml-iclr2019) and [Debugging ML Models](https://debug-ml-iclr2019.github.io/) at ICLR 2019, as well as workshop on [Uncertainty & Robustness in Deep Learning](https://sites.google.com/view/udlworkshop2019/) at ICML 2019.
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

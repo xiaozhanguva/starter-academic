@@ -1,5 +1,5 @@
 ---
-title: "Incorporating Label Uncertainty in Intrinsic Robustness Measures"
+title: "Incorporating Label Uncertainty in Understanding Adversarial Robustness"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -13,7 +13,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2021-05-07T00:00:00Z"
+date: "2021-07-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,13 +26,13 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Security and Safety in Machine Learning Systems Workshop at ICLR 2021
-publication_short: ICLR 2021 aisecure workshop
+publication:  ArXiv
+# publication_short: arxiv
 
-abstract: Starting with Gilmer et al. (2018), a line of theoretical works have focused on studying the concentration of measure phenomenon which is fundamentally connected to adversarial robustness. In this work, we argue that the standard concentration is not sufficient to characterize the intrinsic robustness limit for an adversarially robust classification problem since it does not take data labels into account. Built upon on a novel definition of label uncertainty, we empirically demonstrate that error regions induced by various state-of-the-art classification models tend to have much higher label uncertainty than randomly selected subsets. This observation implies that in order to obtain a more accurate intrinsic robustness limit for a particular data distribution, it is important to understand the concentration of measure regarding the input regions with high label uncertainty. In this paper, we adapt the standard concentration problem to produce a more accurate estimate of intrinsic robustness that incorporates label uncertainty and study the error region characteristics of the state-of-the-art machine learning classifiers.
+abstract: A fundamental question in adversarial machine learning is whether a robust classi- fier exists for a given task. A line of research has made progress towards this goal by studying concentration of measure, but without considering data labels. We argue that the standard concentration fails to fully characterize the intrinsic robust- ness of a classification problem, since it ignores data labels which are essential to any classification task. Building on a novel definition of label uncertainty, we em- pirically demonstrate that error regions induced by state-of-the-art models tend to have much higher label uncertainty compared with randomly-selected subsets. This observation motivates us to adapt a concentration estimation algorithm to account for label uncertainty, resulting in more accurate intrinsic robustness measures for benchmark image classification problems. We further provide empirical evidence showing that adding an abstain option for classifiers based on label uncertainty can help improve both the clean and robust accuracies of models.
 
 # Summary. An optional shortened abstract.
-summary: Advocate to understand the concentration of measure phenomenon regarding inputs regions with high label uncertainty
+summary: Built upon on a novel definition of label uncertainty, we develop an empirical method to estimate a more realistic intirnsic robustness limit for classification tasks
 
 tags: 
 - Adversarial Examples
@@ -45,23 +45,20 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-# - name: ArXiv
-#   url: 'https://arxiv.org/abs/2002.11798'
+- name: ArXiv
+  url: 'https://arxiv.org/abs/2107.03250'
   
-- name: Link
-  url: 'https://iclr.cc/virtual/2021/workshop/2127'
+# - name: Link
+#   url: 'http://proceedings.mlr.press/v70/wang17n'
 
-# - name: Post
-#   url: 'https://uvasrg.github.io/robustrepresentations/'
-
-url_pdf: 'https://aisecure-workshop.github.io/aml-iclr2021/papers/37.pdf'
-# url_code: 'https://github.com/schzhu/learning-adversarially-robust-representations'
+url_pdf: 'https://arxiv.org/pdf/2107.03250.pdf'
+# url_code: 'https://github.com/xiaozhanguva/LR-SVRG'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
-url_slides: 'https://drive.google.com/file/d/1W51ReWumAZ7wC7AG-KUW80Y6maSTomLO/view?usp=sharing'
+# url_slides: ''
 # url_source: ''
-# url_video: ''
+# url_video: 'https://vimeo.com/240662546'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -76,7 +73,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- zhang2021incorporating
+- zhang2021incorporating-full
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -85,6 +82,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+A short version of this work was presented at workshop on [Security and Safety in Machine Learning Systems](https://iclr.cc/virtual/2021/workshop/2127) at ICLR 2021.
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -95,3 +93,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+

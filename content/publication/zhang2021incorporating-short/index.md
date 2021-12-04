@@ -1,21 +1,19 @@
 ---
-title: "Robust Wirtinger Flow for Phase Retrieval with Arbitrary Corruption"
+title: "Incorporating Label Uncertainty in Intrinsic Robustness Measures"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Jinghui Chen
-- Lingxiao Wang
 - Xiao Zhang
-- Quanquan Gu
+- David Evans
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2017-04-20T00:00:00Z"
+date: "2021-05-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -28,38 +26,42 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication:  ArXiv
-# publication_short: arxiv
+publication: Security and Safety in Machine Learning Systems Workshop at ICLR 2021
+publication_short: ICLR 2021 aisecure workshop
 
-abstract: We consider the phase retrieval problem of recovering the unknown signal from the magnitude-only measurements, where the measurements can be contaminated by both sparse arbitrary corruption and bounded random noise. We propose a new nonconvex algorithm for robust phase retrieval, namely Robust Wirtinger Flow, to jointly estimate the unknown signal and the sparse corruption. We show that our proposed algorithm is guaranteed to converge linearly to the unknown true signal up to a minimax optimal statistical precision in such a challenging setting. Compared with existing robust phase retrieval methods, we improved the statistical error rate by a factor of (n/m)^(1/2) where n is the dimension of the signal and m is the sample size, provided a refined characterization of the corruption fraction requirement, and relaxed the lower bound condition on the number of corruption. In the noise-free case, our algorithm converges to the unknown signal at a linear rate and achieves optimal sample complexity up to a logarithm factor. Thorough experiments on both synthetic and real datasets corroborate our theory.
+abstract: Starting with Gilmer et al. (2018), a line of theoretical works have focused on studying the concentration of measure phenomenon which is fundamentally connected to adversarial robustness. In this work, we argue that the standard concentration is not sufficient to characterize the intrinsic robustness limit for an adversarially robust classification problem since it does not take data labels into account. Built upon on a novel definition of label uncertainty, we empirically demonstrate that error regions induced by various state-of-the-art classification models tend to have much higher label uncertainty than randomly selected subsets. This observation implies that in order to obtain a more accurate intrinsic robustness limit for a particular data distribution, it is important to understand the concentration of measure regarding the input regions with high label uncertainty. In this paper, we adapt the standard concentration problem to produce a more accurate estimate of intrinsic robustness that incorporates label uncertainty and study the error region characteristics of the state-of-the-art machine learning classifiers.
 
 # Summary. An optional shortened abstract.
-summary: A new nonconvex algorithm for robust phase retrieval, which attains a linear rate of convergence and improved statistical error rate.
+summary: Advocate to understand the concentration of measure phenomenon regarding inputs regions with high label uncertainty
 
 tags: 
-- Phase Retrieval
-- Nonconvex Optimization
-- Algorithm
+- Adversarial Examples
+- Intrinsic Robustness
+- Concentration of Measure
+- Label Uncertainty
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
 links:
-- name: ArXiv
-  url: 'https://arxiv.org/abs/1704.06256'
+# - name: ArXiv
+#   url: 'https://arxiv.org/abs/2107.03250'
   
-# - name: Link
-#   url: 'http://proceedings.mlr.press/v70/wang17n'
+- name: Link
+  url: 'https://iclr.cc/virtual/2021/workshop/2127'
 
-url_pdf: 'https://arxiv.org/pdf/1704.06256.pdf'
-# url_code: 'https://github.com/xiaozhanguva/LR-SVRG'
+# - name: Post
+#   url: 'https://uvasrg.github.io/robustrepresentations/'
+
+url_pdf: 'https://aisecure-workshop.github.io/aml-iclr2021/papers/37.pdf'
+# url_code: 'https://github.com/schzhu/learning-adversarially-robust-representations'
 # url_dataset: ''
-# url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1W51ReWumAZ7wC7AG-KUW80Y6maSTomLO/view?usp=sharing'
 # url_project: ''
 # url_slides: ''
 # url_source: ''
-# url_video: 'https://vimeo.com/240662546'
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -74,7 +76,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- chen2017robust
+- zhang2021incorporating-short
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

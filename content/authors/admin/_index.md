@@ -60,4 +60,6 @@ email: ''
 
 I am a fifth-year Ph.D. student in [Department of Computer Science](https://engineering.virginia.edu/departments/computer-science) at [University of Virginia](http://www.virginia.edu/), advised by [Prof. David Evans](https://www.cs.virginia.edu/~evans/). Previously, I worked with [Prof. Quanquan Gu](https://web.cs.ucla.edu/~qgu/). I received my M.S. degree from [Department of Statistics](https://statistics.as.virginia.edu/) at University of Virginia and my B.S. degree in Mathematics at [Tsinghua University](https://www.tsinghua.edu.cn/). My research interests cover a variety of topics in machine learning and security, including adversarial machine learning, statistical machine learning, deep learning and convex/non-convex optimization. Here is my latest [CV](https://xiao-zhang.net/uploads/resume.pdf). 
 
-<span style="color:blue">Currently, I am actively looking for research positions in both academia and industry. Please feel free to contact me if you are interested.</span>
+<span style="color:blue">
+Currently, I am actively looking for research positions in both academia and industry. Please feel free to contact me if you are interested. 
+</span>

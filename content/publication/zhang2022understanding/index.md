@@ -65,7 +65,7 @@ url_pdf: 'https://openreview.net/pdf?id=6ET9SzlgNX'
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   # caption: 'Convergence curves of the estimated best possible adversarial risk'
-  focal_point: ""
+  focal_point: "Right"
   preview_only: false
 
 # Associated Projects (optional).

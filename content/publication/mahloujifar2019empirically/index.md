@@ -65,7 +65,7 @@ url_poster: 'https://drive.google.com/file/d/1_bQ0AFR7_-GVDpnDWNUirBW3tqGeGJHF/v
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   # caption: 'Illustration of our empirical method for measuring concentration'
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Associated Projects (optional).

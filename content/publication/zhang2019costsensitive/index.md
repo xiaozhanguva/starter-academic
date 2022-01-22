@@ -66,7 +66,7 @@ url_poster: 'https://drive.google.com/file/d/1vBJvs44KFQXxzmcWEaIKCOonjTjgeDzZ/v
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   # caption: 'Convergence curves of the estimated best possible adversarial risk'
-  focal_point: ""
+  focal_point: "Center"
   preview_only: false
 
 # Associated Projects (optional).

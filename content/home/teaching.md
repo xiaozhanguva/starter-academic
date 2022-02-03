@@ -18,7 +18,7 @@ weight = 105
 
 _[Department of Computer Science](https://engineering.virginia.edu/departments/computer-science)_
 
-+ CS3102: Theory of Computatio (Fall ‘19)
++ CS3102: Theory of Computation (Fall ‘19)
 + CS6501: Optimization for Machine Learning – Teaching Assistant (Fall ‘17)
 + CS2102: Discrete Math – Teaching Assistant (Fall ‘17)
 

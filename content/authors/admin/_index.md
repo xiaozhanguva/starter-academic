@@ -23,7 +23,7 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Virginia
-      year: "Aug. 2017 - present"
+      year: "Aug. 2017 - Aug. 2022"
     - course: MS in Statistics
       institution: University of Virginia
       year: "Aug. 2015 - May 2017"

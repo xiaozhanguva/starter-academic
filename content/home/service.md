@@ -4,7 +4,7 @@ active = true
 date = "2021-05-04T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Professional Services"
+title = "Services"
 # subtitle = "Leadership in formal education settings"
 
 

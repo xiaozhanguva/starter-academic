@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Xiao Zhang's Personal Website # Website name
+title: Xiao Zhang (张潇) # Website name
 baseurl: 'xiao-zhang.net' # Website URL
 copyright: 'Xiao Zhang © {year}' # Footer text, e.g. '© {year} Me'
 

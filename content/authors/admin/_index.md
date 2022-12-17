@@ -13,23 +13,23 @@ organizations:
 
 bio: My research interests are at the intersection of machine learning and security, with a special focus on trustworthy machine leanring, statistical machine learning and optimization.
 
-interests: 
-- Trustworthy Machine Learning
-- Adversarial Machine Learning
-- Statistical Machine Learning
-- Optimization
+# interests: 
+# - Trustworthy Machine Learning
+# - Adversarial Machine Learning
+# - Statistical Machine Learning
+# - Optimization
 
-education:
-  courses:
-    - course: PhD in Computer Science
-      institution: University of Virginia
-      year: "Aug. 2017 - Aug. 2022"
-    - course: MS in Statistics
-      institution: University of Virginia
-      year: "Aug. 2015 - May 2017"
-    - course: BS in Mathematics
-      institution: Tsinghua University
-      year: "Sep. 2011 - Jul. 2015"
+# education:
+#   courses:
+#     - course: PhD in Computer Science
+#       institution: University of Virginia
+#       year: "Aug. 2017 - Aug. 2022"
+#     - course: MS in Statistics
+#       institution: University of Virginia
+#       year: "Aug. 2015 - May 2017"
+#     - course: BS in Mathematics
+#       institution: Tsinghua University
+#       year: "Sep. 2011 - Jul. 2015"
 
 social:
   - icon: envelope
@@ -58,9 +58,11 @@ highlight_name: false
 email: ''
 ---
 
-I am a tenure-track faculty at [CISPA Helmholtz Center for Information Security](https://cispa.de/en). I obtained my Ph.D degree in computer science at [University of Virginia](http://www.virginia.edu/), advised by [Prof. David Evans](https://www.cs.virginia.edu/~evans/). I received my M.S. degree from [Department of Statistics](https://statistics.as.virginia.edu/) at University of Virginia and my B.S. degree in Mathematics at [Tsinghua University](https://www.tsinghua.edu.cn/). My research interests cover a variety of topics in machine learning and security, including trustworthy machine learning, adversarial machine learning, statistical machine learning, convex/non-convex optimization and deep learning. Here is my latest [CV](https://xiao-zhang.net/uploads/resume.pdf). 
+**Bio:** I am currently a tenure-track faculty at [CISPA Helmholtz Center for Information Security](https://cispa.de/en). Prior to that, I obtained my Ph.D degree in the department of computer science at [University of Virginia](http://www.virginia.edu/) advised by [Prof. David Evans](https://www.cs.virginia.edu/~evans/) in 2022. I received my M.S. degree from [Department of Statistics](https://statistics.as.virginia.edu/) at University of Virginia and my B.S. degree in Mathematics at [Tsinghua University](https://www.tsinghua.edu.cn/) in 2017 and 2015, respectively. I am also a member of the [European Laboratory for Learning and Intelligent Systems](https://ellis.eu/).
 
 
-<span style="color:darkred">
-I am looking for strong and motivated students who are interested in trustworthy machine learing. Send me an email if you are interested.
-</span>
+**Research Interests:** My research covers various topics in machine learning and security, including _trustworthy machine learning_, _statistical machine learning_, _convex/non-convex optimization_ and _deep learning_. Recently, I focus on understanding the misbehavior of machine learing models against different adversaries and designing robust and reliable systems for machine learning applications. 
+
+**Open Positions:** <span style="color:darkred"> I am looking for motivated students who are interested in trustworthy machine learning starting in Fall 2023. These includes multiple fully-funded PhDs, research assistants, interns, and visiting students. If you are interested in applying for a position, feel free to send me an email with your CV and research interests. </span>
+
+<!-- Here is my latest [CV](https://xiao-zhang.net/uploads/resume.pdf).  -->

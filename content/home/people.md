@@ -9,7 +9,7 @@ title = "People"
 
 
 # Order that this section will appear in.
-weight = 110
+weight = 50
 
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
@@ -28,4 +28,9 @@ weight = 110
 <h2>Visiting Students</h2>
 
 + Wenshu Fan (expected 03/2023 - 03/2024)
+
+<h2>Alumini</h2>
+
++ [Sicheng Zhu](https://schzhu.github.io/) (visiting student at UVa, Fall 2019 - Spring 2020)
++ Jack Prescott (undergraduate student at UVa, Fall 2020 - Spring 2021)
 

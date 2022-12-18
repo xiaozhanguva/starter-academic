@@ -32,3 +32,5 @@ weight = 110
 + International Conference on Machine Learning (ICML)
 + International Conference on Learning Representations (ICLR)
 + International Conference on Artificial Intelligence and Statistics (AISTATS)
++ IEEE Conference on Secure and Trustworthy Machine Learning (SaTML) 
++ IEEE European Symposium on Security and Privacy (Euro S&P)

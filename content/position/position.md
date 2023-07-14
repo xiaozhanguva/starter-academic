@@ -34,7 +34,7 @@ I have open positions for Ph.D. students, undergraduate/graduate research assist
 **<h3>How to apply:</h3>**
 
 - To apply for a PhD position, please send your CV and a research statement to my email address (xiao [dot] zhang [at] cispa [dot] de). 
-- To apply for a Hiwi or an intern position, please send your CV and a breif introduction of your research interests to to my email address (xiao [dot] zhang [at] cispa [dot] de). 
+- To apply for a Hiwi or an intern position, please send your CV and a breif introduction of your research interests to my email address (xiao [dot] zhang [at] cispa [dot] de). 
 - Applications will be reviewed on a rolling basis. I will read every email, but unfortunately I will not reply to all of them.
 
 

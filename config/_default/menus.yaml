@@ -10,22 +10,22 @@ main:
   - name: Research
     url: 'research/'
     weight: 20
-  - name: Publications
+  - name: Publication
     url: '#featured'
     weight: 30
-  - name: People
-    url: 'people/'
+  - name: Student
+    url: 'student/'
     weight: 40
   - name: Teaching
     url: 'teaching/'
     weight: 50
-  - name: Services
+  - name: Service
     url: 'service/'
     weight: 60
   - name: Contact
     url: '#contact'
     weight: 70
-  - name: Open Positions
+  - name: Open Position
     url: 'position/'
     weight: 80
 

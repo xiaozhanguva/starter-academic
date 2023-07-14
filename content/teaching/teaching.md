@@ -14,16 +14,18 @@ weight = 105
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-<h2>Teaching Assistent - University of Virginia</h2>
+<h2> CISPA Helmholtz Center for Information Security </h2>
 
-_[Department of Computer Science](https://engineering.virginia.edu/departments/computer-science)_
++ Course Instructor
+ 
+  - [Seminar: Topics in Adversarial Machine Learning (Summer ‘23)](https://trustml-cispa.gitlab.io/seminar_aml_ss23/)
 
-+ CS3102: Theory of Computation (Fall ‘19)
-+ CS6501: Optimization for Machine Learning – Teaching Assistant (Fall ‘17)
-+ CS2102: Discrete Math – Teaching Assistant (Fall ‘17)
 
-<h2>Teaching Assistent - University of Virginia</h2>
+<h2> University of Virginia </h2>
 
-_[Department of Statistics](https://statistics.as.virginia.edu)_
++ Teaching Assistant
 
-+ STAT2120: Introduction to Statistical Science  (Fall ‘16, Spring ‘17)
+  - CS3102: Theory of Computation (Fall ‘19)
+  - CS6501: Optimization for Machine Learning – Teaching Assistant (Fall ‘17)
+  - CS2102: Discrete Math – Teaching Assistant (Fall ‘17)
+  - STAT2120: Introduction to Statistical Science  (Fall ‘16, Spring ‘17)

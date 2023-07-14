@@ -65,7 +65,7 @@ email: ''
 
 **Research Interests:** My research covers various topics in machine learning and security, including _trustworthy machine learning_, _statistical machine learning_, _convex/non-convex optimization_ and _deep learning_. Recently, I focus on understanding the misbehavior of machine learning models against different adversaries and designing robust systems for various machine learning applications. 
 
-**Open Positions:** <span style="color:darkred"> I am looking for self-motivated students who are interested in trustworthy machine learning starting in 2024, including multiple PhDs, research assistants, interns, and visiting students. Check [Open Positions](position/) for more details.</span>
+**Open Positions:** <span style="color:darkred"> I am looking for self-motivated students who are interested in trustworthy machine learning starting in 2024, including PhD students, research assistants, intern and visiting students. Check [Open Positions](position/) for more details.</span>
 <!-- If you are interested in applying xfor a position, please send me an email with your CV and research interests. -->
 
 <!-- Here is my latest [CV](https://xiao-zhang.net/uploads/resume.pdf).  -->

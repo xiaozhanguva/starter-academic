@@ -17,17 +17,18 @@ title = "Students"
 
 <h2>Ph.D. Preparatory Phase</h2>
 
-+ Santanu Rathod (expected 10/2023)
-+ Yuelin Xu (expected 10/2023)
++ [Santanu Rathod](https://scholar.google.com/citations?user=KuT4V6UAAAAJ&hl=en) (expected 10/2023)
++ [Yuelin Xu](https://scholar.google.com/citations?user=-cwTgtkAAAAJ&hl=en&oi=sra) (expected 10/2023)
 
 <h2>Research Assistants</h2>
 
-+ Somrita Ghosh (06/2023 - 11.2023)
++ Somrita Ghosh (06/2023 - present)
++ Raj Mohan Tumarada (08/2023 - present)
 
 <h2>Intern Students</h2>
 
-+ Arash Akbari (expected 08/2023 - 10/2023)
-+ Carlo Saccardi (expected 09/2023 - 11/2023)
++ Arash Akbari (08/2023 - 10/2023)
++ Carlo Saccardi (09/2023 - 11/2023)
 + Mohammad Javad Maheronnaghsh (remote, 07/2023 - 09/2023)
 
 <h2>Visiting Students</h2>

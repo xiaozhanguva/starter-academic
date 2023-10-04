@@ -17,8 +17,8 @@ title = "Students"
 
 <h2>Ph.D. Preparatory Phase</h2>
 
-+ [Santanu Rathod](https://scholar.google.com/citations?user=KuT4V6UAAAAJ&hl=en) (expected 10/2023)
-+ [Yuelin Xu](https://scholar.google.com/citations?user=-cwTgtkAAAAJ&hl=en&oi=sra) (expected 10/2023)
++ [Santanu Rathod](https://scholar.google.com/citations?user=KuT4V6UAAAAJ&hl=en) (10/2023 - present)
++ [Yuelin Xu](https://scholar.google.com/citations?user=-cwTgtkAAAAJ&hl=en&oi=sra) (10/2023 - present)
 
 <h2>Research Assistants</h2>
 
@@ -27,16 +27,16 @@ title = "Students"
 
 <h2>Intern Students</h2>
 
-+ Arash Akbari (08/2023 - 10/2023)
 + Carlo Saccardi (09/2023 - 11/2023)
-+ Mohammad Javad Maheronnaghsh (remote, 07/2023 - 09/2023)
++ Mohammad Javad Maheronnaghsh (remote, 07/2023 - present)
 
 <h2>Visiting Students</h2>
 
-+ Wenshu Fan (remote, 03/2023 - 03/2024)
++ Wenshu Fan (remote, 03/2023 - present)
 
 <h2>Alumni</h2>
 
-+ [Sicheng Zhu](https://schzhu.github.io/) (visiting student at UVa, Fall 2019 - Spring 2020, now a PhD at UMD)
-+ Jack Prescott (undergraduate student at UVa, Fall 2020 - Spring 2021, now R&D engineer at NEX)
++ Arash Akbari (intern student at CISPA, 08/2023 - 09/2023)
++ [Sicheng Zhu](https://schzhu.github.io/) (visiting student at UVa, Fall'19 - Spring'20, now a PhD at UMD)
++ Jack Prescott (UVa undergraduate, Fall'20 - Spring'21, now a R&D engineer at NEX)
 

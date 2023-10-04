@@ -25,16 +25,16 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: The 2nd Workshop on New Frontiers in Adversarial Machine Learning at ICML 2023
-publication_short: ICML 2023 AdvML-Frontiers Workshop
+publication: Thirty-seventh Conference on Neural Information Processing Systems
+publication_short: Accepted in NeurIPS 2023
 
 abstract: We study indiscriminate poisoning for linear learners where an adversary injects a few crafted examples into the training data with the goal of forcing the induced model to incur higher test error. Inspired by the observation that linear learners on some datasets are able to resist the best known attacks even without any defenses, we further investigate whether datasets can be inherently robust to indiscriminate poisoning attacks for linear learners. For theoretical Gaussian distributions, we rigorously characterize the behavior of an optimal poisoning attack, defined as the poisoning strategy that attains the maximum risk of the induced model at a given poisoning budget. Our results prove that linear learners can indeed be robust to indiscriminate poisoning if the class-wise data distributions are well-separated with low variance and the size of the constraint set containing all permissible poisoning points is also small. These findings largely explain the drastic variation in empirical attack performance of the state-of-the-art poisoning attacks on linear learners across benchmark datasets, making an important initial step towards understanding the underlying reasons some learning tasks are vulnerable to data poisoning attacks.
 
 # Summary. An optional shortened abstract.
-summary: Understand the inherent vulnerabilities to indiscriminate data poisoning attacks by studying the optimal poisoning strategy
+summary: Understand the inherent vulnerabilities to indiscriminate data poisoning attacks for linear learners by studying the optimal poisoning strategy from the perspective of data distribution.
 
 tags: 
 - Training-time Attacks
@@ -43,7 +43,7 @@ tags:
 
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
@@ -84,6 +84,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+The short version of this work was presented at workshops on [AdvML-Frontiers](https://advml-frontier.github.io/) at ICML 2023. The workshop paper can be found on [Openreview](https://arxiv.org/pdf/2307.01073.pdf).
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

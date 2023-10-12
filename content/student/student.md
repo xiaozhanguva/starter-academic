@@ -17,7 +17,7 @@ title = "Students"
 
 <h2>Ph.D. Preparatory Phase</h2>
 
-+ [Santanu Rathod](https://scholar.google.com/citations?user=KuT4V6UAAAAJ&hl=en) (10/2023 - present)
++ [Santanu Rathod](https://ellis.eu/projects/towards-efficient-and-reliable-deep-learning-systems-using-geometric-methods) (10/2023 - present, [ELLIS](https://ellis.eu/) PhD, co-advised with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/))
 + [Yuelin Xu](https://scholar.google.com/citations?user=-cwTgtkAAAAJ&hl=en&oi=sra) (10/2023 - present)
 
 <h2>Research Assistants</h2>

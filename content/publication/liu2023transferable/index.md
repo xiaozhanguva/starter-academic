@@ -46,7 +46,7 @@ featured: false
 links:
 
 - name: ArXiv
-  url: 'https://arxiv.org/pdf/2310.05141'
+  url: 'https://arxiv.org/abs/2310.05141'
   
 # - name: OpenReview
 #   url: 'https://openreview.net/forum?id=6ET9SzlgNX&noteId=3E3haWzrQPr'

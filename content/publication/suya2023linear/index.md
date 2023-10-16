@@ -50,8 +50,8 @@ links:
 - name: ArXiv
   url: 'https://arxiv.org/abs/2307.01073'
   
-# - name: Link
-#   url: 'http://proceedings.mlr.press/v70/wang17n'
+- name: OpenReview
+  url: 'https://openreview.net/forum?id=yyLFUPNEiT'
 
 url_pdf: 'https://arxiv.org/pdf/2307.01073.pdf'
 # url_code: 'https://github.com/xiaozhanguva/LR-SVRG'

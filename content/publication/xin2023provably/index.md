@@ -48,12 +48,12 @@ featured: false
 links:
 
 - name: ArXiv
-  url: 
+  url: https://arxiv.org/abs/2310.08732
   
 # - name: Link
 #   url: 'http://proceedings.mlr.press/v70/wang17n'
 
-url_pdf: 'https://openreview.net/pdf?id=6wDGBAs21z'
+url_pdf: 'https://arxiv.org/pdf/2310.08732.pdf'
 url_code: 'https://github.com/TrustMLRG/CS-RS'
 # url_dataset: ''
 # url_poster: ''

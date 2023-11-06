@@ -14,6 +14,7 @@ title = "Students"
 + [Minxing Zhang](https://minxingzhang.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present)
 + [Yuan Xin](https://applexy.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present)
 + [Rui Ye](https://cispa.de/de/people/rui.ye) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present)
++ [Jia Fu](https://jasonfu1998.github.io/) (externally supervised PhD at [RISE](https://www.ri.se/en), Sweden)
 
 <h2>Ph.D. Preparatory Phase</h2>
 

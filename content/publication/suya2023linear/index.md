@@ -1,5 +1,5 @@
 ---
-title: "When Can Linear Learners be Robust to Indiscriminate Poisoning Attacks?"
+title: "What Distributions are Robust to Indiscriminate Poisoning Attacks for Linear Learners?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -15,7 +15,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2023-07-03T00:00:00Z"
+date: "2023-11-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,7 +29,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Thirty-seventh Conference on Neural Information Processing Systems
-publication_short: Accepted in NeurIPS 2023
+publication_short: NeurIPS 2023
 
 abstract: We study indiscriminate poisoning for linear learners where an adversary injects a few crafted examples into the training data with the goal of forcing the induced model to incur higher test error. Inspired by the observation that linear learners on some datasets are able to resist the best known attacks even without any defenses, we further investigate whether datasets can be inherently robust to indiscriminate poisoning attacks for linear learners. For theoretical Gaussian distributions, we rigorously characterize the behavior of an optimal poisoning attack, defined as the poisoning strategy that attains the maximum risk of the induced model at a given poisoning budget. Our results prove that linear learners can indeed be robust to indiscriminate poisoning if the class-wise data distributions are well-separated with low variance and the size of the constraint set containing all permissible poisoning points is also small. These findings largely explain the drastic variation in empirical attack performance of the state-of-the-art poisoning attacks on linear learners across benchmark datasets, making an important initial step towards understanding the underlying reasons some learning tasks are vulnerable to data poisoning attacks.
 
@@ -51,7 +51,7 @@ links:
   url: 'https://arxiv.org/abs/2307.01073'
   
 - name: OpenReview
-  url: 'https://openreview.net/forum?id=yyLFUPNEiT'
+  url: 'https://openreview.net/pdf?id=yyLFUPNEiT'
 
 url_pdf: 'https://arxiv.org/pdf/2307.01073.pdf'
 # url_code: 'https://github.com/xiaozhanguva/LR-SVRG'
@@ -84,7 +84,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-The short version of this work was presented at workshops on [AdvML-Frontiers](https://advml-frontier.github.io/) at ICML 2023. The workshop paper can be found on [Openreview](https://arxiv.org/pdf/2307.01073.pdf).
+The short version of this work was presented at workshops on [AdvML-Frontiers](https://advml-frontier.github.io/) at ICML 2023. 
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

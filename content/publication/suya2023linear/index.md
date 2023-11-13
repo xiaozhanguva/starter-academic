@@ -50,10 +50,10 @@ links:
 - name: ArXiv
   url: 'https://arxiv.org/abs/2307.01073'
   
-- name: OpenReview
-  url: 'https://openreview.net/pdf?id=yyLFUPNEiT'
+# - name: OpenReview
+#   url: 'https://openreview.net/pdf?id=yyLFUPNEiT'
 
-url_pdf: 'https://arxiv.org/pdf/2307.01073.pdf'
+url_pdf: 'https://openreview.net/pdf?id=yyLFUPNEiT'
 # url_code: 'https://github.com/xiaozhanguva/LR-SVRG'
 # url_dataset: ''
 # url_poster: ''

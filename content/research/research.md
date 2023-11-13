@@ -14,7 +14,7 @@ weight = 30
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-The research of our lab covers various topics in trustworthy machine learning, such as robustness, privacy and interpretability, as well as their applications in computer vision (CV), neural language processing (NLP), cybersecurity and etc. Some of our current research projects are:
+The research of our lab covers various topics in trustworthy machine learning, such as robustness, privacy and interpretability, as well as their applications in computer vision (CV), natural language processing (NLP), cybersecurity and etc. Some of our current research projects are:
 
 
 <h2>Fundations of Adversarial Machine Learning</h2>

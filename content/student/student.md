@@ -23,13 +23,13 @@ title = "Students"
 
 <h2>Research Assistants</h2>
 
-+ Somrita Ghosh (06/2023 - present)
++ [Subrat Kishore Dutta](https://cispa.de/de/people/c01sudu) (01/2024 - present)
 + Raj Mohan Tumarada (08/2023 - present)
++ [Somrita Ghosh](https://cispa.de/de/people/c01sogh) (06/2023 - present)
 
 <h2>Intern Students</h2>
 
-+ Carlo Saccardi (09/2023 - 11/2023)
-+ Mohammad Javad Maheronnaghsh (remote, 07/2023 - present)
++ Carlo Saccardi (09/2023 - 11/2023, 01/2024 - present)
 
 <h2>Visiting Students</h2>
 
@@ -37,6 +37,7 @@ title = "Students"
 
 <h2>Alumni</h2>
 
++ Mohammad Javad Maheronnaghsh (remote intern at CISPA, 07/2023 - 12/2023)
 + Arash Akbari (intern student at CISPA, 08/2023 - 09/2023)
 + [Sicheng Zhu](https://schzhu.github.io/) (visiting student at UVa, Fall'19 - Spring'20, now a PhD at UMD)
 + Jack Prescott (UVa undergraduate, Fall'20 - Spring'21, now a R&D engineer at NEX)

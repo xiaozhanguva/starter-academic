@@ -23,16 +23,16 @@ twitter: ''
 email: xiao.zhang@cispa.de
 phone: +49 681 87083 2342
 address:
-  street: Stuhlsatzenhaus 5
-  city: Saarbrücken
+  street: Im oberen Werk 1
+  city: St. Ingbert
   region: Saarland
-  postcode: '66111'
+  postcode: '66386'
   country: Germany
   country_code: DE
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
-directions: My office is located in Room 3.12 at CISPA main building
+directions: My office is Room 0.28 at CISPA D2 building
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'

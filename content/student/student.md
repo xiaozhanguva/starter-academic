@@ -30,7 +30,7 @@ title = "Students"
 <h2>Intern Students</h2>
 
 + Carlo Saccardi (09/2023 - 11/2023, 01/2024 - present)
-+ Umang Agarwal (remote, 03/2024 - present)
++ Umang Agarwal (remote, 01/2024 - present)
 + Advik Raj Basani (remote, 01/2024 - present)
 
 <h2>Visiting Students</h2>

@@ -23,13 +23,14 @@ title = "Students"
 
 <h2>Research Assistants</h2>
 
++ [Piyush Pant](https://cispa.de/en/people/c01pipa) (05/2024 - present)
++ [Youngjin Kwon](https://cispa.de/en/people/c01yokw) (05/2024 - present)
 + [Subrat Kishore Dutta](https://cispa.de/de/people/c01sudu) (01/2024 - present)
 + Raj Mohan Tumarada (08/2023 - present)
 + [Somrita Ghosh](https://cispa.de/de/people/c01sogh) (06/2023 - present)
 
 <h2>Intern Students</h2>
 
-+ Carlo Saccardi (09/2023 - 11/2023, 01/2024 - present)
 + Umang Agarwal (remote, 01/2024 - present)
 + Advik Raj Basani (remote, 01/2024 - present)
 
@@ -39,6 +40,7 @@ title = "Students"
 
 <h2>Alumni</h2>
 
++ Carlo Saccardi (intern student at CISPA, 09/2023 - 04/2024, now a PhD at TU Delft)
 + Mohammad Javad Maheronnaghsh (remote intern at CISPA, 07/2023 - 12/2023)
 + Arash Akbari (intern student at CISPA, 08/2023 - 09/2023)
 + [Sicheng Zhu](https://schzhu.github.io/) (visiting student at UVa, Fall'19 - Spring'20, now a PhD at UMD)

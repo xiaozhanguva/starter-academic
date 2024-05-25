@@ -18,8 +18,9 @@ weight = 105
 
 + Course Instructor
  
-  - [Seminar: Topics in Adversarial Machine Learning (Summer ‘23)](https://trustml-cispa.gitlab.io/seminar_aml_ss23/)
+  - [Seminar: Topics in Adversarial Machine Learning (Summer ‘24)](https://cms.cispa.saarland/aml_24/)
   - [Advanced Lecture: Robustness in Machine Learning (Winter ‘23)](https://cms.cispa.saarland/rml_ws23/)
+  - [Seminar: Topics in Adversarial Machine Learning (Summer ‘23)](https://trustml-cispa.gitlab.io/seminar_aml_ss23/)
 
 <h2> University of Virginia </h2>
 

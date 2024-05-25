@@ -19,22 +19,25 @@ The research of our lab covers various topics in trustworthy machine learning, s
 
 <h2>Fundations of Adversarial Machine Learning</h2>
 
-+ Understanding intrinsic robustness for inference-time/data-poisoning attacks
++ Understanding intrinsic robustness for different inference- and training-time attacks
 + Understanding robust overfiting of adversarial training
 
 
-<h2>Attack/Defense against Adversarial Examples</h2>
+<h2>Algorithmic Design for Attack/Defense</h2>
 
-+ Semi-supervised methods for robust learning 
-+ Robust certification methods
++ Adversarial examples
++ Data poisoning & subpopulation attacks
++ Backdoor attacks
++ Attacks & defenses using generative models
 
 
-<h2>General Definitions of Model Robustness</h2>
+<h2>NLP/LLM Robustness</h2>
+
++ Robustness evaluation for transformation-based NLP defenses
++ LLM jailbreak attacks & defenses
+
+
+<h2>General Definitions of Robustness</h2>
 
 + Cost-sensitive adversarial robustness
 + Out-of-distrbution robustness
-
-
-<h2>NLP Robustness</h2>
-
-+ Robustness Evaluation for Transformation-based Adversarial Defense

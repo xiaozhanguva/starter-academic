@@ -31,6 +31,7 @@ title = "Students"
 
 <h2>Intern Students</h2>
 
++ Zhizhen Chen (remote, 04/2024 - present)
 + Umang Agarwal (remote, 01/2024 - present)
 + Advik Raj Basani (remote, 01/2024 - present)
 

@@ -10,7 +10,7 @@ title = "Students"
 
 <h2>Ph.D. Students</h2>
 
-+ [Yiyong Liu](https://liu199604.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present)
+<!-- + [Yiyong Liu](https://liu199604.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present) -->
 + [Minxing Zhang](https://minxingzhang.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present)
 + [Yuan Xin](https://applexy.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present)
 + [Rui Ye](https://cispa.de/de/people/rui.ye) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present)

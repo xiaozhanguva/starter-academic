@@ -52,13 +52,13 @@ links:
 - name: Link
   url: 'https://ieeexplore.ieee.org/abstract/document/10531257'
 
-# - name: ArXiv
-#   url: 'https://arxiv.org/abs/2310.04539'
+- name: ArXiv
+  url: 'https://arxiv.org/abs/2406.05874'
   
 # - name: OpenReview
 #   url: 'https://openreview.net/forum?id=6ET9SzlgNX&noteId=3E3haWzrQPr'
 
-# url_pdf: 'https://arxiv.org/pdf/2310.04539.pdf'
+url_pdf: 'https://arxiv.org/pdf/2406.05874'
 # url_code: 'https://github.com/TrustMLRG/EDAC'
 # url_dataset: ''
 # url_poster: ''

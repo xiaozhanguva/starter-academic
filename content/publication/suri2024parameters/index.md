@@ -1,22 +1,20 @@
 ---
-title: "AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks"
+title: "Do Parameters Reveal More than Loss for Membership Inference?"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yifan Zeng
-- Yiran Wu
+- Anshuman Suri
 - Xiao Zhang
-- Huazheng Wang
-- Qingyun Wu
+- David Evans
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-03-02T00:00:00Z"
+date: "2024-06-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,19 +27,20 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv
-# publication_short: arxiv
+publication: 2nd Workshop on High-dimensional Learning Dynamics (HiLD) at ICML 2024
+publication_short: ICML 2024 HiLD Workshop
 
-abstract: Despite extensive pre-training and fine-tuning in moral alignment to prevent generating harmful information at user request, large language models (LLMs) remain vulnerable to jailbreak attacks. In this paper, we propose AutoDefense, a response-filtering based multi-agent defense framework that filters harmful responses from LLMs. This framework assigns different roles to LLM agents and employs them to complete the defense task collaboratively. The division in tasks enhances the overall instruction-following of LLMs and enables the integration of other defense components as tools. AutoDefense can adapt to various sizes and kinds of open-source LLMs that serve as agents. Through conducting extensive experiments on a large scale of harmful and safe prompts, we validate the effectiveness of the proposed AutoDefense in improving the robustness against jailbreak attacks, while maintaining the performance at normal user request.
+abstract: Membership inference attacks aim to infer whether an individual record was used to train a model, serving as a key tool for disclosure auditing. While such evaluations are useful to demonstrate risk, they are computationally expensive and often make strong assumptions about potential adversaries' access to models and training environments, and thus do not provide very tight bounds on leakage from potential attacks. We show how prior claims around black-box access being sufficient for optimal membership inference do not hold for most useful settings such as stochastic gradient descent, and that optimal membership inference indeed requires white-box access. We validate our findings with a new white-box inference attack IHA (Inverse Hessian Attack) that explicitly uses model parameters by taking advantage of computing inverse-Hessian vector products. Our results show that both audits and adversaries may be able to benefit from access to model parameters, and we advocate for further research into white-box methods for membership privacy auditing.
 
 
 # Summary. An optional shortened abstract.
-summary: We propose AutoDefense, a response-filtering based multi-agent defense framework that filters harmful responses from LLMs.
+summary: We show how prior claims about black-box access sufficing for optimal membership inference do not hold for most useful settings such as SGD, and validate our findings with a new white-box inference attack.
+
 
 tags: 
-- LLM Jailbreak Attacks
-- Multi-Agent Systems
-- Response Filtering
+- Privacy Auditing
+- Membership Inference Attacks
+- Discrete-time SGD Dynamics
 
 # Display this page in the Featured widget?
 featured: false
@@ -49,14 +48,14 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 
-- name: ArXiv
-  url: 'https://arxiv.org/abs/2403.04783'
+# - name: ArXiv
+#   url: 'https://arxiv.org/abs/2403.04783'
   
-# - name: OpenReview
-#   url: 'https://openreview.net/forum?id=6ET9SzlgNX&noteId=3E3haWzrQPr'
+- name: OpenReview
+  url: 'https://openreview.net/forum?id=4i2fiSRNei'
 
-url_pdf: 'https://arxiv.org/pdf/2403.04783'
-url_code: 'https://github.com/XHMY/AutoDefense'
+url_pdf: 'https://openreview.net/pdf?id=4i2fiSRNei'
+# url_code: 'https://github.com/XHMY/AutoDefense'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -77,7 +76,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- zeng2024auto
+- suri2024parameters
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

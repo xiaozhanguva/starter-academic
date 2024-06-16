@@ -1,22 +1,19 @@
 ---
-title: "AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks"
+title: "Understanding Adversarially Robust Generalization via Weight-Curvature Index"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yifan Zeng
-- Yiran Wu
+- Yuelin Xu
 - Xiao Zhang
-- Huazheng Wang
-- Qingyun Wu
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-03-02T00:00:00Z"
+date: "2024-06-16T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -29,19 +26,19 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv
-# publication_short: arxiv
+publication: 2nd Workshop on High-dimensional Learning Dynamics (HiLD) at ICML 2024
+publication_short: ICML 2024 HiLD Workshop
 
-abstract: Despite extensive pre-training and fine-tuning in moral alignment to prevent generating harmful information at user request, large language models (LLMs) remain vulnerable to jailbreak attacks. In this paper, we propose AutoDefense, a response-filtering based multi-agent defense framework that filters harmful responses from LLMs. This framework assigns different roles to LLM agents and employs them to complete the defense task collaboratively. The division in tasks enhances the overall instruction-following of LLMs and enables the integration of other defense components as tools. AutoDefense can adapt to various sizes and kinds of open-source LLMs that serve as agents. Through conducting extensive experiments on a large scale of harmful and safe prompts, we validate the effectiveness of the proposed AutoDefense in improving the robustness against jailbreak attacks, while maintaining the performance at normal user request.
+abstract: Despite numerous efforts, achieving adversarial robustness in deep learning remains a critical challenge. Recent studies have discovered that adversarial training, a widely adopted method for improving model robustness against adversarial perturbations, prevalently suffers from robust overfitting. To better characterize the robust generalization of adversarially trained models, we introduce the Weight-Curvature Index (WCI), a novel metric that captures the Frobenius norm of layer-wise weight matrices and the trace of the Hessian matrix with respect to the adversarial loss function. In particular, we establish a theoretical connection between WCI and robust generalization gap under a PAC-Bayesian framework. By analyzing the dynamics of these factors, WCI offers a nuanced understanding of why robust overfitting happens during adversarial training. Experimental results demonstrate a strong correlation between WCI and traditional robustness measures, suggesting the effectiveness of WCI in capturing the learning dynamics of adversarial training.
 
 
 # Summary. An optional shortened abstract.
-summary: We propose AutoDefense, a response-filtering based multi-agent defense framework that filters harmful responses from LLMs.
+summary: We introduce the Weight-Curvature Index (WCI), a novel metric that captures the interplay between model parameters and loss landscape curvature to better understand and improve adversarially robust generalization in deep learning.
 
 tags: 
-- LLM Jailbreak Attacks
-- Multi-Agent Systems
-- Response Filtering
+- Adversarial Examples
+- Adversarially Robust Generalization
+- Weight-Curvature Index
 
 # Display this page in the Featured widget?
 featured: false
@@ -49,14 +46,14 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 
-- name: ArXiv
-  url: 'https://arxiv.org/abs/2403.04783'
+# - name: ArXiv
+#   url: 'https://arxiv.org/abs/2403.04783'
   
-# - name: OpenReview
-#   url: 'https://openreview.net/forum?id=6ET9SzlgNX&noteId=3E3haWzrQPr'
+- name: OpenReview
+  url: 'https://openreview.net/forum?id=465Gv50E2N'
 
-url_pdf: 'https://arxiv.org/pdf/2403.04783'
-url_code: 'https://github.com/XHMY/AutoDefense'
+url_pdf: 'https://openreview.net/pdf?id=465Gv50E2N'
+# url_code: 'https://github.com/XHMY/AutoDefense'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -77,7 +74,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- zeng2024auto
+- xu2024understanding
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

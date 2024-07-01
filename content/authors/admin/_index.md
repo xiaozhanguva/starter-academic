@@ -67,6 +67,6 @@ email: ''
 
 <!-- <span style="color:blue"> I am always looking for self-motivated students who are interested in trustworthy machine learning research, so I will be glad to hear from you. </span> -->
 
-**Open Positions:** <span style="color:darkred"> I am looking for self-motivated students who are interested in trustworthy machine learning starting, including PhD students, research assistants, intern and visiting students. Check [Open Positions](position/) for more details.</span> -->
+**Open Positions:** <span style="color:darkred"> I am looking for self-motivated students who are interested in trustworthy machine learning, including PhD students, research assistants, intern and visiting students. Check [Open Positions](position/) for more details.</span> -->
 
 <!-- Here is my latest [CV](https://xiao-zhang.net/uploads/resume.pdf).  -->

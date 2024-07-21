@@ -12,8 +12,8 @@ weight = 2
 
 I have open positions for Ph.D. students, undergraduate/graduate research assistants, bachelor/master theses, interns, and visiting students for our research group at CISPA on:
 
-- Adversarial machine learning and its applications (CV, NLP, cybersecurity)
-- Trustworthy machine learning (robustness, interpretability, privacy, fairness)
+- Foundations to Adversarial machine learning
+- Trustworthy machine learning (robustness, privacy, interpretability, fairness) and its applications (CV, NLP, cybersecurity)
 
 
 **<h3>PhD Requirements:</h3>**
@@ -41,4 +41,4 @@ I have open positions for Ph.D. students, undergraduate/graduate research assist
 **<h3>Useful Links:</h3>**
 
 - See [this blog post](https://andreas-zeller.info/2020/07/01/whats-it-like-to-be-a-phd-student-in-germany.html) about life as a PhD student in Germany by [Andreas Zeller](https://andreas-zeller.info/)
-- For Hiwi and intern students, see [Young Reseracher Internship Program](https://jobs.cispa.saarland/jobs/detail/young-researcher-internship-program-2) at CISPA
+- For intern students, see [Young Reseracher Internship Program](https://career.cispa.de/yrip.html)

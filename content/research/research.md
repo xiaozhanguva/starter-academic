@@ -14,10 +14,10 @@ weight = 30
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-The research of our lab covers various topics in Adversarial machine learning, such as robustness, privacy and interpretability, as well as their applications in computer vision, natural language processing and cybersecurity. Some of our current projects are:
+The research of our lab covers various topics in adversarial machine learning, including robustness, privacy and interpretability, as well as their applications in computer vision, natural language processing and cybersecurity. Some of our current projects are:
 
 
-<h2>Theoretical Fundations of Adversarial ML</h2>
+<h2>Fundations of Adversarial ML</h2>
 
 + [Unerstanding intrinsic robustness via empirically measuring concentration](https://arxiv.org/pdf/1905.12202)
 + [Understanding adversarially robust generalization](https://openreview.net/pdf?id=465Gv50E2N)
@@ -25,11 +25,12 @@ The research of our lab covers various topics in Adversarial machine learning, s
 + [Limits on membership inference attack](https://arxiv.org/pdf/2406.11544)
 
 
-<h2> General Aspects of Adversarial ML  </h2>
+<h2> General Aspects & Definitions of Adversarial ML  </h2>
 
 + Efficiency of adversarial ML algorithms
 + [Robustness certification](https://arxiv.org/pdf/2310.08732)
-+ Subpopuation data poisoning attacks
++ Adversarial patch attack
++ Subpopuation data poisoning attack
 + [Cost-sensitive robustness](https://openreview.net/pdf?id=BygANhA9tQ)
 
 

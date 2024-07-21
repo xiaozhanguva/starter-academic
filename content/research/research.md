@@ -25,7 +25,7 @@ The research of our lab covers various topics in adversarial machine learning, i
 + [Uncover the limits of membership inference attack](https://arxiv.org/pdf/2406.11544)
 
 
-<h2> General Aspects & Definitions of Adversarial ML  </h2>
+<h2> General Aspects of Adversarial ML  </h2>
 
 + Efficiency of adversarial ML algorithms
 + [Robustness certification](https://arxiv.org/pdf/2310.08732)

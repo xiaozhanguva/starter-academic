@@ -14,7 +14,7 @@ weight = 30
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-The research of our lab covers various topics in trustworthy machine learning, such as robustness, privacy and interpretability, as well as their applications in computer vision, natural language processing and cybersecurity. Some of our current projects are:
+The research of our lab covers various topics in Adversarial machine learning, such as robustness, privacy and interpretability, as well as their applications in computer vision, natural language processing and cybersecurity. Some of our current projects are:
 
 
 <h2>Theoretical Fundations of Adversarial ML</h2>
@@ -28,16 +28,16 @@ The research of our lab covers various topics in trustworthy machine learning, s
 <h2> General Aspects of Adversarial ML  </h2>
 
 + Efficiency of adversarial ML algorithms
-+ [Robustness Certification](https://arxiv.org/pdf/2310.08732)
++ [Robustness certification](https://arxiv.org/pdf/2310.08732)
 + Subpopuation data poisoning attacks
 + [Cost-sensitive robustness](https://openreview.net/pdf?id=BygANhA9tQ)
 
 
 <h2>Adversarial ML Applications</h2>
 
-+ Facial recognition & anti-facial recognition
++ Facial recognition
 + [Image captioning](https://arxiv.org/pdf/2406.05874)
-+ Human Pose Estimation
++ Human pose estimation
 + Interpretable models
 
 

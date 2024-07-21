@@ -13,7 +13,7 @@ weight = 2
 I have open positions for Ph.D. students, undergraduate/graduate research assistants, bachelor/master theses, interns, and visiting students for our research group at CISPA on:
 
 - Foundations to Adversarial machine learning
-- Trustworthy machine learning (robustness, privacy, interpretability, fairness) and its applications (CV, NLP, cybersecurity)
+- Trustworthy Machine Learning and its application (CV, NLP, cybersecurity)
 
 
 **<h3>PhD Requirements:</h3>**

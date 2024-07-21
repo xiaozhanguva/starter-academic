@@ -10,10 +10,10 @@ weight = 2
 +++
 **<h1>Open Positions</h1>**
 
-I have open positions for Ph.D. students, undergraduate/graduate research assistants, bachelor/master theses, interns, and visiting students for our research group at CISPA on:
+I have open positions for Ph.D. students, undergraduate/graduate research assistants, bachelor/master theses, interns and visiting students for our research group on:
 
-- Foundations to Adversarial machine learning
-- Trustworthy Machine Learning and its application (CV, NLP, cybersecurity)
+- Foundations to adversarial machine learning
+- Trustworthy machine learning and its application (e.g., CV, NLP, cybersecurity)
 
 
 **<h3>PhD Requirements:</h3>**

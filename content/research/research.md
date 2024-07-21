@@ -17,12 +17,12 @@ weight = 30
 The research of our lab covers various topics in adversarial machine learning, including robustness, privacy and interpretability, as well as their applications in computer vision, natural language processing and cybersecurity. Some of our current projects are:
 
 
-<h2>Fundations of Adversarial ML</h2>
+<h2>Theoretical Foundations of Adversarial ML</h2>
 
 + [Unerstanding intrinsic robustness via measuring concentration](https://arxiv.org/pdf/1905.12202)
 + [Understanding adversarially robust generalization](https://openreview.net/pdf?id=465Gv50E2N)
 + [Characterizing the optimality of data poisoning attack](https://openreview.net/pdf?id=yyLFUPNEiT)
-+ [Uncover the limits of membership inference attack](https://arxiv.org/pdf/2406.11544)
++ [Membership inference & privacy auditing](https://arxiv.org/pdf/2406.11544)
 
 
 <h2> General Aspects of Adversarial ML  </h2>

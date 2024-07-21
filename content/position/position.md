@@ -12,7 +12,7 @@ weight = 2
 
 I have open positions for Ph.D. students, undergraduate/graduate research assistants, bachelor/master theses, interns and visiting students for our research group on:
 
-- Foundations to adversarial machine learning
+- Foundations of adversarial machine learning
 - Trustworthy machine learning and its application (e.g., CV, NLP and Cybersecurity)
 
 

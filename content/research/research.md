@@ -27,7 +27,7 @@ The research of our lab covers various topics in adversarial machine learning, i
 
 <h2> General Aspects of Adversarial ML  </h2>
 
-+ Efficiency of adversarial ML algorithms
++ [Efficiency of adversarial ML algorithms](https://openreview.net/pdf?id=FjZsM7D9AT)
 + [Robustness certification](https://arxiv.org/pdf/2310.08732)
 + Adversarial patch attack
 + Subpopuation data poisoning attack

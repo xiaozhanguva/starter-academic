@@ -26,7 +26,6 @@ title = "Students"
 + [Piyush Pant](https://cispa.de/en/people/c01pipa) (05/2024 - present)
 + [Youngjin Kwon](https://cispa.de/en/people/c01yokw) (05/2024 - present)
 + [Subrat Kishore Dutta](https://cispa.de/de/people/c01sudu) (01/2024 - present)
-+ Raj Mohan Tumarada (08/2023 - present)
 + [Somrita Ghosh](https://cispa.de/de/people/c01sogh) (06/2023 - present)
 
 <h2>Intern Students</h2>
@@ -42,8 +41,9 @@ title = "Students"
 <h2>Alumni</h2>
 
 + Carlo Saccardi (intern student at CISPA, 09/2023 - 04/2024, now a PhD at TU Delft)
++ Raj Mohan Tumarada (research assistant at CISPA, 08/2023 - 09/2024, now an Applied R&D Engineer at Nokia)
 + Mohammad Javad Maheronnaghsh (remote intern at CISPA, 07/2023 - 12/2023)
-+ Arash Akbari (intern student at CISPA, 08/2023 - 09/2023)
++ Arash Akbari (intern student at CISPA, 08/2023 - 09/2023, now a PhD at Northeastern University)
 + [Sicheng Zhu](https://schzhu.github.io/) (visiting student at UVa, Fall'19 - Spring'20, now a PhD at UMD)
 + Jack Prescott (UVa undergraduate, Fall'20 - Spring'21, now a R&D engineer at NEX)
 

@@ -46,8 +46,8 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 
-# - name: ArXiv
-#   url: 'https://arxiv.org/abs/2403.04783'
+- name: ArXiv
+  url: 'https://arxiv.org/pdf/2410.07719'
   
 - name: OpenReview
   url: 'https://openreview.net/forum?id=465Gv50E2N'

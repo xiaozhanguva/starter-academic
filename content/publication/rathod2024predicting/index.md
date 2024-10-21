@@ -1,11 +1,12 @@
 ---
-title: "Understanding Adversarially Robust Generalization via Weight-Curvature Index"
+title: "Predicting Time-varying Flux and Balance in Metabolic Systems using Structured Neural ODE Processes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Yuelin Xu
+- Santanu Rathod
+- Pietro Liò
 - Xiao Zhang
 
 # Author notes (optional)
@@ -13,7 +14,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-06-16T00:00:00Z"
+date: "2024-10-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,19 +27,19 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: 2nd Workshop on High-dimensional Learning Dynamics (HiLD) at ICML 2024
-publication_short: ICML 2024 HiLD Workshop
+publication: ArXiv
+# publication_short:
 
-abstract: Despite numerous efforts, achieving adversarial robustness in deep learning remains a critical challenge. Recent studies have discovered that adversarial training, a widely adopted method for improving model robustness against adversarial perturbations, prevalently suffers from robust overfitting. To better characterize the robust generalization of adversarially trained models, we introduce the Weight-Curvature Index (WCI), a novel metric that captures the Frobenius norm of layer-wise weight matrices and the trace of the Hessian matrix with respect to the adversarial loss function. In particular, we establish a theoretical connection between WCI and robust generalization gap under a PAC-Bayesian framework. By analyzing the dynamics of these factors, WCI offers a nuanced understanding of why robust overfitting happens during adversarial training. Experimental results demonstrate a strong correlation between WCI and traditional robustness measures, suggesting the effectiveness of WCI in capturing the learning dynamics of adversarial training.
+abstract: We develop a novel data-driven framework as an alternative to dynamic flux balance analysis, bypassing the demand for deep domain knowledge and manual efforts to formulate the optimization problem. The proposed framework is end-to-end, which trains a structured neural ODE process (SNODEP) model to estimate flux and balance samples using gene-expression time-series data. SNODEP is designed to circumvent the limitations of the standard neural ODE process model, including restricting the latent and decoder sampling distributions to be normal and lacking structure between context points for calculating the latent, thus more suitable for modeling the underlying dynamics of a metabolic system. Through comprehensive experiments (156 in total), we demonstrate that SNODEP not only predicts the unseen time points of real-world gene-expression data and the flux and balance estimates well but can even generalize to more challenging unseen knockout configurations and irregular data sampling scenarios, all essential for metabolic pathway analysis. We hope our work can serve as a catalyst for building more scalable and powerful models for genome-scale metabolic analysis.
 
 
 # Summary. An optional shortened abstract.
-summary: We introduce the Weight-Curvature Index (WCI), a novel metric that captures the interplay between model parameters and loss landscape curvature to better understand and improve adversarially robust generalization in deep learning.
+summary: We propose a structured neural ODE process model to estimate flux and balance samples using gene-expression time-series data
 
 tags: 
-- Adversarial Examples
-- Adversarially Robust Generalization
-- Weight-Curvature Index
+- Genome-Scale Metabolic Models 
+- Neural Ordinary Differential Equation (ODE)
+- Dynamic Flux and Balance Analysis (FBA)
 
 # Display this page in the Featured widget?
 featured: false
@@ -47,12 +48,12 @@ featured: false
 links:
 
 - name: ArXiv
-  url: 'https://arxiv.org/abs/2410.07719'
+  url: 'https://arxiv.org/abs/2410.14426'
   
-- name: OpenReview
-  url: 'https://openreview.net/forum?id=465Gv50E2N'
+# - name: OpenReview
+#   url: 'https://openreview.net/forum?id=465Gv50E2N'
 
-url_pdf: 'https://openreview.net/pdf?id=465Gv50E2N'
+url_pdf: 'https://arxiv.org/pdf/2410.14426'
 # url_code: 'https://github.com/XHMY/AutoDefense'
 # url_dataset: ''
 # url_poster: ''
@@ -74,7 +75,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- xu2024understanding
+- rathod2024predicting
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

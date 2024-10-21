@@ -52,7 +52,7 @@ links:
 - name: OpenReview
   url: 'https://openreview.net/forum?id=MMtK0kUML7'
 
-url_pdf: 'https://arxiv.org/pdf/2310.04539.pdf'
+url_pdf: 'https://openreview.net/pdf?id=MMtK0kUML7'
 url_code: 'https://github.com/TrustMLRG/AdvCertainty'
 # url_dataset: ''
 # url_poster: ''

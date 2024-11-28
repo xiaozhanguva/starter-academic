@@ -11,16 +11,11 @@ title = "Students"
 <h2>Ph.D. Students</h2>
 
 + [Santanu Rathod](https://ellis.eu/projects/towards-efficient-and-reliable-deep-learning-systems-using-geometric-methods) (10/10/2023 - present, [ELLIS](https://ellis.eu/) PhD, co-advised with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/))
-
-<!-- + [Yiyong Liu](https://liu199604.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present) -->
-
 + [Minxing Zhang](https://minxingzhang.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present)
-
 + [Yuan Xin](https://applexy.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present)
-
 + [Rui Ye](https://cispa.de/de/people/rui.ye) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present)
-
 + [Jia Fu](https://jasonfu1998.github.io/) (externally supervised PhD at [RISE](https://www.ri.se/en), Sweden)
+<!-- + [Yiyong Liu](https://liu199604.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes), 10/2022 - present) -->
 
 <h2>Ph.D. Preparatory Phase</h2>
 

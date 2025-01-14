@@ -30,8 +30,6 @@ title = "Students"
 
 <h2>Intern Students</h2>
 
-+ Zhizhen Chen (remote, 04/2024 - present)
-+ Umang Agarwal (remote, 01/2024 - present)
 + Advik Raj Basani (remote, 01/2024 - present)
 
 <h2>Visiting Students</h2>
@@ -40,9 +38,11 @@ title = "Students"
 
 <h2>Alumni</h2>
 
++ Umang Agarwal (remote intern student at CISPA, 01/2024 - 12/2024)
++ Zhizhen Chen (remote intern student at CISPA, 04/2024 - 11/2024)
 + Carlo Saccardi (intern student at CISPA, 09/2023 - 04/2024, now a PhD at TU Delft)
 + Raj Mohan Tumarada (research assistant at CISPA, 08/2023 - 09/2024, now an Applied R&D Engineer at Nokia)
-+ Mohammad Javad Maheronnaghsh (remote intern at CISPA, 07/2023 - 12/2023)
++ Mohammad Javad Maheronnaghsh (remote intern student at CISPA, 07/2023 - 12/2023)
 + Arash Akbari (intern student at CISPA, 08/2023 - 09/2023, now a PhD at Northeastern University)
 + [Sicheng Zhu](https://schzhu.github.io/) (visiting student at UVa, Fall'19 - Spring'20, now a PhD at UMD)
 + Jack Prescott (UVa undergraduate, Fall'20 - Spring'21, now a R&D engineer at NEX)

@@ -27,8 +27,8 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv
-# publication_short:
+publication: ICLR 2025 Workshop on Machine Learning for Genomics Explorations 
+publication_short: ICLR 2025 MLGenX Workshop
 
 abstract: We develop a novel data-driven framework as an alternative to dynamic flux balance analysis, bypassing the demand for deep domain knowledge and manual efforts to formulate the optimization problem. The proposed framework is end-to-end, which trains a structured neural ODE process (SNODEP) model to estimate flux and balance samples using gene-expression time-series data. SNODEP is designed to circumvent the limitations of the standard neural ODE process model, including restricting the latent and decoder sampling distributions to be normal and lacking structure between context points for calculating the latent, thus more suitable for modeling the underlying dynamics of a metabolic system. Through comprehensive experiments (156 in total), we demonstrate that SNODEP not only predicts the unseen time points of real-world gene-expression data and the flux and balance estimates well but can even generalize to more challenging unseen knockout configurations and irregular data sampling scenarios, all essential for metabolic pathway analysis. We hope our work can serve as a catalyst for building more scalable and powerful models for genome-scale metabolic analysis.
 
@@ -50,8 +50,8 @@ links:
 - name: ArXiv
   url: 'https://arxiv.org/abs/2410.14426'
   
-# - name: OpenReview
-#   url: 'https://openreview.net/forum?id=465Gv50E2N'
+- name: OpenReview
+  url: 'https://openreview.net/forum?id=hs1AWLx6U5'
 
 url_pdf: 'https://arxiv.org/pdf/2410.14426'
 # url_code: 'https://github.com/XHMY/AutoDefense'

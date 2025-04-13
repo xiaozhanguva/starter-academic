@@ -17,10 +17,10 @@ weight = 105
 <h2> CISPA Helmholtz Center for Information Security </h2>
 
 + Course Instructor
- 
-  - [Seminar: Topics in Adversarial Machine Learning (Summer ‘24)](https://cms.cispa.saarland/aml_24/)
-  - [Advanced Lecture: Robustness in Machine Learning (Winter ‘23)](https://cms.cispa.saarland/rml_ws23/)
-  - [Seminar: Topics in Adversarial Machine Learning (Summer ‘23)](https://trustml-cispa.gitlab.io/seminar_aml_ss23/)
+   - [Lecture: Algorithmic Foundations of Adversarial Robustness](https://www.stine.uni-hamburg.de/scripts/mgrqispi.dll?APPNAME=CampusNet&PRGNAME=ACTION&ARGUMENTS=-ACQ1ifnQ-omnMzaD5XmQw7O9djLbjKGHhYKgih9BR-qFXmF~K2wKjseA2-N3sqTsjDOhUAZNpBWQVMnG8uWvcXW~OuSlBIPAZBFsJ1LUcJgBmVt6aBFbanIZkK~JSpc3N7Wm7QAx7~OdfSwUHwpbhVta8zpbSBvYeqvUlPm17egf3eXgWXKQqAFNk4mqnzDFvoEmmUYGbZgTY71U_) (Summer ‘25)
+  - [Seminar: Topics in Adversarial Machine Learning](https://cms.cispa.saarland/aml_24/) (Summer ‘24)
+  - [Advanced Lecture: Robustness in Machine Learning](https://cms.cispa.saarland/rml_ws23/) (Winter ‘23)
+  - [Seminar: Topics in Adversarial Machine Learning](https://trustml-cispa.gitlab.io/seminar_aml_ss23/) (Summer ‘23)
 
 <h2> University of Virginia </h2>
 

@@ -1,17 +1,17 @@
 ---
-title: "GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs"
+title: "MASQUE: Diffusion-Based Localized Adversarial Makeup for Facial Privacy"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Advik Raj Basani
+- Youngjin Kwon
 - Xiao Zhang
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 
-date: "2024-11-28T00:00:00Z"
+date: "2025-03-13T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,19 +24,18 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication:  ICLR 2025 Workshop on Building Trust in Language Models and Applications
-publication_short: ICLR 2025 BuildingTrust Workshop
+publication:  ICLR 2025 Workshop on Foundation Models in the Wild
+publication_short: ICLR 2025 FM-Wild Workshop
 
-abstract: Large Language Models (LLMs) have shown impressive proficiency across a range of natural language processing tasks yet remain vulnerable to adversarial prompts, known as jailbreak attacks, carefully designed to elicit harmful responses from LLMs. Traditional methods rely on manual heuristics, which suffer from limited generalizability. While being automatic, optimization-based attacks often produce unnatural jailbreak prompts that are easy to detect by safety filters or require high computational overhead due to discrete token optimization. Witnessing the limitations of existing jailbreak methods, we introduce Generative Adversarial Suffix Prompter (GASP), a novel framework that combines human-readable prompt generation with Latent Bayesian Optimization (LBO) to improve adversarial suffix creation in a fully black-box setting. GASP leverages LBO to craft adversarial suffixes by efficiently exploring continuous embedding spaces, gradually optimizing the model to improve attack efficacy while balancing prompt coherence through a targeted iterative refinement procedure. Our experiments show that GASP can generate natural jailbreak prompts, significantly improving attack success rates, reducing training times, and accelerating inference speed, thus making it an efficient and scalable solution for red-teaming LLMs.
+abstract: Facial recognition has been increasingly employed in real-world applications, raising serious privacy concerns over mass surveillance and unauthorized tracking. Existing anti-facial recognition methods perturb face images using generative models to protect privacy but often introduce global artifacts, depend on reference image prompts, or require target identity, compromising both visual quality and anonymity. To address the above limitations, we introduce MASQUE, a diffusion-based framework that generates localized adversarial makeup guided by user-defined text prompts. By leveraging precise null-text inversion, targeted cross-attention fusion with masking, and a novel pairwise adversarial guidance mechanism using images of the same individual, MASQUE achieves robust dodging performance without the need for an external target identity. Extensive evaluations on open-source FR models and commercial APIs show that MASQUE significantly enhances privacy protection over all baselines, achieving average protection success rates of 90% for identification and 87% for verification while preserving high perceptual fidelity.
 
 
 # Summary. An optional shortened abstract.
-summary: We introduce Generative Adversarial Suffix Prompter (GASP), a novel framework that combines human-readable prompt generation with Latent Bayesian Optimization (LBO) to improve adversarial suffix creation in a fully black-box setting.
+summary: We introduce MASQUE, a diffusion-based framework that generates localized adversarial makeup guided by user-defined text prompts.
 
 tags: 
-- Large Language Model (LLM)
-- Jailbreak Attack
-- Latent Bayesian Optimization
+- Anti-Facial Recognition
+- Diffusion Models
 
 # Display this page in the Featured widget?
 featured: false
@@ -44,13 +43,13 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 - name: ArXiv
-  url: 'https://arxiv.org/abs/2411.14133'
+  url: 'https://arxiv.org/abs/2503.10549'
   
 - name: OpenReview
-  url: 'https://openreview.net/forum?id=Gonca78Bwq&noteId=uCKiVEXZCS'
+  url: 'https://openreview.net/forum?id=ydTE0tpZ90'
 
-url_pdf: 'https://arxiv.org/pdf/2411.14133'
-url_code: 'https://github.com/TrustMLRG/GASP'
+url_pdf: 'https://arxiv.org/pdf/2503.10549'
+# url_code: 'https://github.com/TrustMLRG/GASP'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -71,7 +70,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- basani2024gasp
+- kwon2025masque
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

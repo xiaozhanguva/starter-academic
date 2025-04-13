@@ -27,8 +27,8 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv
-# publication_short: ICML 2023 AdvML-Frontiers Workshop
+publication: 2nd ICML Workshop on New Frontiers in Adversarial Machine Learning
+publication_short: ICML 2023 AdvML-Frontiers Workshop
 
 abstract: We focus on learning adversarially robust classifiers under a cost-sensitive scenario, where the potential harm of different classwise adversarial transformations is encoded in a binary cost matrix. Existing methods are either empirical that cannot certify robustness or suffer from inherent scalability issues. In this work, we study whether randomized smoothing, a more scalable robustness certification framework, can be leveraged to certify cost-sensitive robustness. Built upon a notion of cost-sensitive certified radius, we show how to adapt the standard randomized smoothing certification pipeline to produce tight robustness guarantees for any cost matrix. In addition, with fine-grained certified radius optimization schemes specifically designed for different data subgroups, we propose an algorithm to train smoothed classifiers that are optimized for cost-sensitive robustness. Extensive experiments on image benchmarks and a real-world medical dataset demonstrate the superiority of our method in achieving significantly improved performance of certified cost-sensitive robustness while having a negligible impact on overall accuracy.
 
@@ -50,8 +50,8 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/2310.08732
   
-# - name: Link
-#   url: 'http://proceedings.mlr.press/v70/wang17n'
+- name: OpenReview
+  url: 'https://openreview.net/forum?id=6wDGBAs21z'
 
 url_pdf: 'https://arxiv.org/pdf/2310.08732.pdf'
 url_code: 'https://github.com/TrustMLRG/CS-RS'

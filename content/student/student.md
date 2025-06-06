@@ -11,8 +11,8 @@ title = "Students"
 <h2>Ph.D. Students</h2>
 
 + [Santanu Rathod](https://santanurathod.github.io/) (12/2024 - present, [ELLIS](https://ellis.eu/) PhD, co-advised with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/))
-+ [Yuelin Xu](https://xuyuelin88117.github.io/) (expected to start in 05/2025)
-+ [Subrat Kishore Dutta](https://scholar.google.com/citations?user=CuW7OPcAAAAJ&hl=en) (expected to start in 05/2025, co-advised with [Anne Lauscher](https://anne-lauscher.de/))
++ [Yuelin Xu](https://xuyuelin88117.github.io/) (05/2025 - present)
++ [Subrat Kishore Dutta](https://scholar.google.com/citations?user=CuW7OPcAAAAJ&hl=en) (05/2025 - present, co-advised with [Anne Lauscher](https://anne-lauscher.de/))
 
 + [Minxing Zhang](https://minxingzhang.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes))
 + [Yuan Xin](https://applexy.github.io/) (co-advised with [Michael Backes](https://cispa.de/de/people/backes))

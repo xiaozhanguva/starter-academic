@@ -19,7 +19,7 @@ The research of our lab covers various topics in adversarial machine learning, i
 
 <h2>Theoretical Foundations of Adversarial ML</h2>
 
-+ [Unerstanding intrinsic robustness via measuring concentration](https://arxiv.org/pdf/1905.12202)
++ [Understanding intrinsic robustness via measuring concentration](https://arxiv.org/pdf/1905.12202)
 + [Understanding adversarially robust generalization](https://openreview.net/pdf?id=465Gv50E2N)
 + [Characterizing the optimality of data poisoning attack](https://openreview.net/pdf?id=yyLFUPNEiT)
 + [Membership inference & privacy auditing](https://arxiv.org/pdf/2406.11544)

@@ -47,13 +47,13 @@ featured: false
 # Custom links (uncomment lines below)
 links:
 
-# - name: ArXiv
-  # url: https://arxiv.org/abs/2310.08732
+- name: ArXiv
+  url: https://arxiv.org/abs/2310.08732
   
-- name: OpenReview
-  url: 'https://openreview.net/forum?id=D7qKAO34tp&noteId=D7qKAO34tp'
+# - name: OpenReview
+  # url: 'https://openreview.net/forum?id=D7qKAO34tp&noteId=D7qKAO34tp'
 
-url_pdf: 'https://openreview.net/pdf?id=D7qKAO34tp'
+url_pdf: 'https://arxiv.org/pdf/2310.08732'
 # url_code: 'https://github.com/TrustMLRG/CS-RS'
 # url_dataset: ''
 # url_poster: ''

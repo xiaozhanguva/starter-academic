@@ -24,11 +24,11 @@ title = "Students"
 
 + [Youngjin Kwon](https://cispa.de/en/people/c01yokw) (05/2024 - present)
 + [Piyush Pant](https://piyushwithpant.github.io/) (05/2024 - present)
-+ [Advik Raj Basani](https://floofcat.github.io/) (01/2024 - present)
++ [Advik Raj Basani](https://floofcat.github.io/) (remote intern, 01/2024 - present)
 
 <h2>Alumni</h2>
 
-+ Wenshu Fan (visiting PhD, 03/2023 - 12/2024)
++ Wenshu Fan (visiting PhD student, 03/2023 - 12/2024)
 + Somrita Ghosh (research assistant, 06/2023 - 02/2025)
 + Raj Mohan Tumarada (research assistant, 08/2023 - 09/2024, now an Applied R&D Engineer at Nokia)
 

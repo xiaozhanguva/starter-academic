@@ -1,20 +1,22 @@
 ---
-title: "Predicting Time-varying Flux and Balance in Metabolic Systems using Structured Neural ODE Processes"
+title: "DiffPAD: Denoising Diffusion-based Adversarial Patch Decontamination"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Santanu Rathod
-- Pietro Liò
+- Jia Fu
 - Xiao Zhang
+- Sepideh Pashami
+- Fatemeh Rahimian
+- Anders Holst
 
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-10-18T00:00:00Z"
+date: "2025-02-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,22 +26,22 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ICLR 2025 Workshop on Machine Learning for Genomics Explorations 
-publication_short: ICLR 2025 MLGenX Workshop
+publication:  Accepted to IEEE/CVF Winter Conference on Applications of Computer Vision, 2025
+publication_short: WACV 2025
 
-abstract: We develop a novel data-driven framework as an alternative to dynamic flux balance analysis, bypassing the demand for deep domain knowledge and manual efforts to formulate the optimization problem. The proposed framework is end-to-end, which trains a structured neural ODE process (SNODEP) model to estimate flux and balance samples using gene-expression time-series data. SNODEP is designed to circumvent the limitations of the standard neural ODE process model, including restricting the latent and decoder sampling distributions to be normal and lacking structure between context points for calculating the latent, thus more suitable for modeling the underlying dynamics of a metabolic system. Through comprehensive experiments (156 in total), we demonstrate that SNODEP not only predicts the unseen time points of real-world gene-expression data and the flux and balance estimates well but can even generalize to more challenging unseen knockout configurations and irregular data sampling scenarios, all essential for metabolic pathway analysis. We hope our work can serve as a catalyst for building more scalable and powerful models for genome-scale metabolic analysis.
+abstract: In the ever-evolving adversarial machine learning landscape, developing effective defenses against patch attacks has become a critical challenge, necessitating reliable solutions to safeguard real-world AI systems. Although diffusion models have shown remarkable capacity in image synthesis and have been recently utilized to counter ℓp-norm bounded attacks, their potential in mitigating localized patch attacks remains largely underexplored. In this work, we propose DiffPAD, a novel framework that harnesses the power of diffusion models for adversarial patch decontamination. DiffPAD first performs super-resolution restoration on downsampled input images, then adopts binarization, dynamic thresholding scheme and sliding window for effective localization of adversarial patches. Such a design is inspired by the theoretically derived correlation between patch size and diffusion restoration error that is generalized across diverse patch attack scenarios. Finally, DiffPAD applies inpainting techniques to the original input images with the estimated patch region being masked. By integrating closed-form solutions for super-resolution restoration and image inpainting into the conditional reverse sampling process of a pre-trained diffusion model, DiffPAD obviates the need for text guidance or fine-tuning. Through comprehensive experiments, we demonstrate that DiffPAD not only achieves state-of-the-art adversarial robustness against patch attacks but also excels in recovering naturalistic images without patch remnants.
 
 
 # Summary. An optional shortened abstract.
-summary: We propose a structured neural ODE process model to estimate flux and balance samples using gene-expression time-series data
+summary:  We propose DiffPAD, a novel framework that harnesses the power of diffusion models for adversarial patch decontamination.
 
 tags: 
-- Genome-Scale Metabolic Models 
-- Neural Ordinary Differential Equation (ODE)
-- Dynamic Flux and Balance Analysis (FBA)
+- Adversarial Robustness
+- Adversarial Patch
+- Diffusion Models
 
 # Display this page in the Featured widget?
 featured: false
@@ -48,12 +50,12 @@ featured: false
 links:
 
 - name: ArXiv
-  url: 'https://arxiv.org/abs/2410.14426'
+  url: 'https://arxiv.org/abs/2410.24006'
   
-- name: OpenReview
-  url: 'https://openreview.net/forum?id=hs1AWLx6U5'
+# - name: OpenReview
+#   url: 'https://openreview.net/forum?id=FjZsM7D9AT'
 
-url_pdf: 'https://arxiv.org/pdf/2410.14426'
+url_pdf: 'https://arxiv.org/pdf/2410.24006'
 # url_code: 'https://github.com/XHMY/AutoDefense'
 # url_dataset: ''
 # url_poster: ''
@@ -75,7 +77,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- rathod2024predicting
+- fu2025diffpad
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

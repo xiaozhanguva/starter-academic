@@ -30,7 +30,7 @@ publication_types: ["1"]
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of the 42nd International Conference on Machine Learning
 publication_short: ICML 2025
-abstract: WAs ML models are increasingly deployed in critical applications, robustness against adversarial perturbations is crucial. While numerous defenses have been proposed to counter such attacks, they typically assume that all adversarial transformations are equally important, an assumption that rarely aligns with real-world applications. To address this, we study the problem of robust learning against adversarial perturbations under costsensitive scenarios, where the potential harm of different types of misclassifications is encoded in a cost matrix. Our solution introduces a provably robust learning algorithm to certify and optimize for cost-sensitive robustness, building on the scalable certification framework of randomized smoothing. Specifically, we formalize the definition of cost-sensitive certified radius and propose our novel adaptation of the standard certification algorithm to generate tight robustness certificates tailored to any cost matrix. In addition, we design a robust training method that improves certified cost-sensitive robustness without compromising model accuracy. Extensive experiments on benchmark datasets, including challenging ones unsolvable by existing methods, demonstrate the effectiveness of our certification algorithm and training method across various cost-sensitive scenarios.
+abstract: As ML models are increasingly deployed in crit- ical applications, robustness against adversarial perturbations is crucial. While numerous defenses have been proposed to counter such attacks, they typically assume that all adversarial transforma- tions are equally important, an assumption that rarely aligns with real-world applications. To ad- dress this, we study the problem of robust learn- ing against adversarial perturbations under cost- sensitive scenarios, where the potential harm of different types of misclassifications is encoded in a cost matrix. Our solution introduces a prov- ably robust learning algorithm to certify and opti- mize for cost-sensitive robustness, building on the scalable certification framework of randomized smoothing. Specifically, we formalize the defini- tion of cost-sensitive certified radius and propose our novel adaptation of the standard certification algorithm to generate tight robustness certificates tailored to any cost matrix. In addition, we design a robust training method that improves certified cost-sensitive robustness without compromising model accuracy. Extensive experiments on bench- mark datasets, including challenging ones unsolv- able by existing methods, demonstrate the effec- tiveness of our certification algorithm and training method across various cost-sensitive scenarios.
 
 # Summary. An optional shortened abstract.
 summary: We study how to certify and train for cost-sensitive robustness using randomized smoothing.
@@ -50,11 +50,11 @@ links:
 - name: ArXiv
   url: https://arxiv.org/abs/2310.08732
   
-# - name: OpenReview
-  # url: 'https://openreview.net/forum?id=D7qKAO34tp&noteId=D7qKAO34tp'
+- name: OpenReview
+  url: 'https://openreview.net/forum?id=D7qKAO34tp'
 
-url_pdf: 'https://arxiv.org/pdf/2310.08732'
-# url_code: 'https://github.com/TrustMLRG/CS-RS'
+url_pdf: 'https://openreview.net/pdf?id=D7qKAO34tp'
+url_code: 'https://github.com/AppleXY/Cost-Sensitive-RS'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -84,7 +84,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-The short version of this work was presented at workshops on [AdvML-Frontiers](https://advml-frontier.github.io/) at ICML 2023. The workshop paper can be found on [Openreview](https://openreview.net/pdf?id=6wDGBAs21z).
+The short version of this work was presented at workshops on [AdvML-Frontiers](https://advml-frontier.github.io/past/icml2023/index.html) at ICML 2023. The workshop paper can be found on [Openreview](https://openreview.net/pdf?id=6wDGBAs21z).
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

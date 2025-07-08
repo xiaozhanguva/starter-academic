@@ -11,7 +11,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 
-date: "2025-03-13T00:00:00Z"
+date: "2025-04-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -49,7 +49,7 @@ links:
   url: 'https://openreview.net/forum?id=ydTE0tpZ90'
 
 url_pdf: 'https://arxiv.org/pdf/2503.10549'
-# url_code: 'https://github.com/TrustMLRG/GASP'
+url_code: 'https://github.com/TrustMLRG/MASQUE'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''

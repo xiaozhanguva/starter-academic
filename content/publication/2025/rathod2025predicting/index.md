@@ -1,21 +1,24 @@
 ---
-title: "GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbreaking LLMs"
+title: "Predicting Time-varying Flux and Balance in Metabolic Systems using Structured Neural ODE Processes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Advik Raj Basani
+- Santanu Rathod
+- Pietro Liò
 - Xiao Zhang
+
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
+# - "Equal contribution"
 
-date: "2024-11-28T00:00:00Z"
+date: "2025-04-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-# publishDate: ""
+# publishDate: "2022-04-25T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -24,33 +27,34 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication:  ICLR 2025 Workshop on Building Trust in Language Models and Applications
-publication_short: ICLR 2025 BuildingTrust Workshop
+publication: ICLR 2025 Workshop on Machine Learning for Genomics Explorations 
+publication_short: ICLR 2025 MLGenX Workshop
 
-abstract: Large Language Models (LLMs) have shown impressive proficiency across a range of natural language processing tasks yet remain vulnerable to adversarial prompts, known as jailbreak attacks, carefully designed to elicit harmful responses from LLMs. Traditional methods rely on manual heuristics, which suffer from limited generalizability. While being automatic, optimization-based attacks often produce unnatural jailbreak prompts that are easy to detect by safety filters or require high computational overhead due to discrete token optimization. Witnessing the limitations of existing jailbreak methods, we introduce Generative Adversarial Suffix Prompter (GASP), a novel framework that combines human-readable prompt generation with Latent Bayesian Optimization (LBO) to improve adversarial suffix creation in a fully black-box setting. GASP leverages LBO to craft adversarial suffixes by efficiently exploring continuous embedding spaces, gradually optimizing the model to improve attack efficacy while balancing prompt coherence through a targeted iterative refinement procedure. Our experiments show that GASP can generate natural jailbreak prompts, significantly improving attack success rates, reducing training times, and accelerating inference speed, thus making it an efficient and scalable solution for red-teaming LLMs.
+abstract: We develop a novel data-driven framework as an alternative to dynamic flux balance analysis, bypassing the demand for deep domain knowledge and manual efforts to formulate the optimization problem. The proposed framework is end-to-end, which trains a structured neural ODE process (SNODEP) model to estimate flux and balance samples using gene-expression time-series data. SNODEP is designed to circumvent the limitations of the standard neural ODE process model, including restricting the latent and decoder sampling distributions to be normal and lacking structure between context points for calculating the latent, thus more suitable for modeling the underlying dynamics of a metabolic system. Through comprehensive experiments (156 in total), we demonstrate that SNODEP not only predicts the unseen time points of real-world gene-expression data and the flux and balance estimates well but can even generalize to more challenging unseen knockout configurations and irregular data sampling scenarios, all essential for metabolic pathway analysis. We hope our work can serve as a catalyst for building more scalable and powerful models for genome-scale metabolic analysis.
 
 
 # Summary. An optional shortened abstract.
-summary: We introduce Generative Adversarial Suffix Prompter (GASP), a novel framework that combines human-readable prompt generation with Latent Bayesian Optimization (LBO) to improve adversarial suffix creation in a fully black-box setting.
+summary: We propose a structured neural ODE process model to estimate flux and balance samples using gene-expression time-series data
 
 tags: 
-- Large Language Model (LLM)
-- Jailbreak Attack
-- Latent Bayesian Optimization
+- Genome-Scale Metabolic Models 
+- Neural Ordinary Differential Equation (ODE)
+- Dynamic Flux and Balance Analysis (FBA)
 
 # Display this page in the Featured widget?
 featured: false
 
 # Custom links (uncomment lines below)
 links:
+
 - name: ArXiv
-  url: 'https://arxiv.org/abs/2411.14133'
+  url: 'https://arxiv.org/abs/2410.14426'
   
 - name: OpenReview
-  url: 'https://openreview.net/forum?id=Gonca78Bwq&noteId=uCKiVEXZCS'
+  url: 'https://openreview.net/forum?id=hs1AWLx6U5'
 
-url_pdf: 'https://arxiv.org/pdf/2411.14133'
-url_code: 'https://github.com/TrustMLRG/GASP'
+url_pdf: 'https://arxiv.org/pdf/2410.14426'
+# url_code: 'https://github.com/XHMY/AutoDefense'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''
@@ -71,7 +75,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- basani2024gasp
+- rathod2025predicting
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -90,3 +94,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
+

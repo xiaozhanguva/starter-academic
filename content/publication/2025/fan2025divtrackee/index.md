@@ -58,7 +58,7 @@ links:
 #   url: 'http://proceedings.mlr.press/v70/wang17n'
 
 url_pdf: 'https://arxiv.org/pdf/2501.06533'
-# url_code: ''
+url_code: 'https://github.com/fiora6/divtrackee'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''

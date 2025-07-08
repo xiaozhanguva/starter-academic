@@ -33,3 +33,5 @@ weight = 110
 + International Conference on Machine Learning (ICML)
 + International Conference on Learning Representations (ICLR)
 + International Conference on Artificial Intelligence and Statistics (AISTATS)
++ IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
++ International Conference on Computer Vision (ICCV)

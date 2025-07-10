@@ -44,14 +44,14 @@ featured: false
 
 # Custom links (uncomment lines below)
 links:
-# - name: ArXiv
-#   url: 'https://arxiv.org/abs/2501.06533'
+- name: ArXiv
+  url: 'https://arxiv.org/abs/2507.06856'
   
 # - name: Link
 #   url: 'http://proceedings.mlr.press/v70/wang17n'
 
-# url_pdf: 'https://arxiv.org/pdf/2501.06533'
-# url_code: 'https://github.com/fiora6/divtrackee'
+url_pdf: 'https://arxiv.org/pdf/2507.06856'
+url_code: 'https://github.com/subratkishoredutta/IAP'
 # url_dataset: ''
 # url_poster: ''
 # url_project: ''

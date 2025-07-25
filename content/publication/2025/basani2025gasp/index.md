@@ -24,7 +24,7 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication:  ICLR 2025 Workshop on Building Trust in Language Models and Applications (Oral Presentation)
+publication:  ICLR 2025 Workshop on Building Trust in Language Models and Applications (Oral)
 publication_short: ICLR 2025 BuildingTrust Workshop (Oral)
 
 abstract: Large Language Models (LLMs) have shown impressive proficiency across a range of natural language processing tasks yet remain vulnerable to adversarial prompts, known as jailbreak attacks, carefully designed to elicit harmful responses from LLMs. Traditional methods rely on manual heuristics, which suffer from limited generalizability. While being automatic, optimization-based attacks often produce unnatural jailbreak prompts that are easy to detect by safety filters or require high computational overhead due to discrete token optimization. Witnessing the limitations of existing jailbreak methods, we introduce Generative Adversarial Suffix Prompter (GASP), a novel framework that combines human-readable prompt generation with Latent Bayesian Optimization (LBO) to improve adversarial suffix creation in a fully black-box setting. GASP leverages LBO to craft adversarial suffixes by efficiently exploring continuous embedding spaces, gradually optimizing the model to improve attack efficacy while balancing prompt coherence through a targeted iterative refinement procedure. Our experiments show that GASP can generate natural jailbreak prompts, significantly improving attack success rates, reducing training times, and accelerating inference speed, thus making it an efficient and scalable solution for red-teaming LLMs.
@@ -53,7 +53,7 @@ url_pdf: 'https://arxiv.org/pdf/2411.14133'
 url_code: 'https://github.com/TrustMLRG/GASP'
 # url_dataset: ''
 # url_poster: ''
-# url_project: ''
+url_project: 'https://gasp-llm.vercel.app/'
 # url_slides: ''
 # url_source: ''
 # url_video: 'https://vimeo.com/240662546'

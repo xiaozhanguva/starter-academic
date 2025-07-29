@@ -1,13 +1,13 @@
 ---
-title: "Can Targeted Clean-Label Poisoning Attacks Generalize?"
+title: "Generalizable Targeted Data Poisoning against Varying Physical Objects"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Zhizhen Chen
-- Subrat Kishore Dutta
 - Zhengyu Zhao
+- Subrat Kishore Dutta
 - Chenhao Lin
 - Chao Shen
 - Xiao Zhang
@@ -17,7 +17,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2024-12-05T00:00:00Z"
+date: "2025-07-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -33,10 +33,10 @@ publication_types: ["3"]
 publication:  ArXiv
 # publication_short: arxiv
 
-abstract: Targeted poisoning attacks aim to compromise the model's prediction on specific target samples. In a common clean-label setting, they are achieved by slightly perturbing a subset of training samples given access to those specific targets. Despite continuous efforts, it remains unexplored whether such attacks can generalize to unknown variations of those targets. In this paper, we take the first step to systematically study this generalization problem. Observing that the widely adopted, cosine similarity-based attack exhibits limited generalizability, we propose a well-generalizable attack that leverages both the direction and magnitude of model gradients. In particular, we explore diverse target variations, such as an object with varied viewpoints and an animal species with distinct appearances. Extensive experiments across various generalization scenarios demonstrate that our method consistently achieves the best attack effectiveness. For example, our method outperforms the cosine similarity-based attack by 20.95% in attack success rate with similar overall accuracy, averaged over four models on two image benchmark datasets.
+abstract: Targeted data poisoning (TDP) aims to compromise the model's prediction on a specific (test) target by perturbing a small subset of training data. Existing work on TDP has focused on an overly ideal threat model in which the same image sample of the target is used during both poisoning and inference stages. However, in the real world, a target object often appears in complex variations due to changes of physical settings such as viewpoint, background, and lighting conditions. In this work, we take the first step toward understanding the real-world threats of TDP by studying its generalizability across varying physical conditions. In particular, we observe that solely optimizing gradient directions, as adopted by the best previous TDP method, achieves limited generalization. To address this limitation, we propose optimizing both the gradient direction and magnitude for more generalizable gradient matching, thereby leading to higher poisoning success rates. For instance, our method outperforms the state of the art by 19.49% when poisoning CIFAR-10 images targeting multi-view cars.
 
 # Summary. An optional shortened abstract.
-summary: We explore whether targeted clean-label data poisoning attacks can generalize to diverse target variations
+summary: We take the first step toward understanding the real-world threats of TDP by studying its generalizability across varying physical conditions.
 
 tags: 
 - Clean-Label Data Poisoning Attacks
@@ -76,7 +76,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- chen2024targeted
+- chen2025generalizable
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -27,7 +27,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of the 1st Workshop for Research on Agent Language Models (Oral)
-publication_short: ACL Workshop REALM 2025 (Oral)
+publication_short: ACL 2025 REALM Workshop (Oral)
 
 abstract: Large Language Models (LLMs) are increasingly deployed in critical domains, but their vulnerability to jailbreak attacks remains a significant concern. In this paper, we propose a multi-agent, multi-turn jailbreak strategy that systematically bypasses LLM safety mechanisms by decomposing harmful queries into seemingly benign sub-tasks. Built upon a role-based agentic framework consisting of a Question Decomposer, a Sub-Question Answerer, and an Answer Combiner, we demonstrate how LLMs can be manipulated to generate prohibited content without prompt manipulations. Our results show a drastic increase in attack success, often exceeding 90% across various LLMs, including GPT-3.5-Turbo, Gemma-2-9B, and Mistral-7B. We further analyze attack consistency across multiple runs and vulnerability across content categories. Compared to existing widely used jailbreak techniques, our multi-agent method consistently achieves the highest attack success rate across all evaluated models. These findings reveal a critical flaw in the current safety architecture of multi-agent LLM systems - their lack of holistic context awareness. By revealing this weakness, we argue for an urgent need to develop multi-turn, context-aware, and robust defenses to address this emerging threat vector.
 

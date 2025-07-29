@@ -1,5 +1,5 @@
 ---
-title: "MASQUE: Diffusion-Based Localized Adversarial Makeup for Facial Privacy"
+title: "MASQUE: Localized Adversarial Makeup Generation with Text-Guided Diffusion Models"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -11,7 +11,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 
-date: "2025-04-28T00:00:00Z"
+date: "2025-07-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -24,10 +24,10 @@ doi: ""
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication:  ICLR 2025 Workshop on Foundation Models in the Wild
-publication_short: ICLR 2025 FM-Wild Workshop
+publication:  ArXiv
+# publication_short: ICLR 2025 FM-Wild Workshop
 
-abstract: Facial recognition has been increasingly employed in real-world applications, raising serious privacy concerns over mass surveillance and unauthorized tracking. Existing anti-facial recognition methods perturb face images using generative models to protect privacy but often introduce global artifacts, depend on reference image prompts, or require target identity, compromising both visual quality and anonymity. To address the above limitations, we introduce MASQUE, a diffusion-based framework that generates localized adversarial makeup guided by user-defined text prompts. By leveraging precise null-text inversion, targeted cross-attention fusion with masking, and a novel pairwise adversarial guidance mechanism using images of the same individual, MASQUE achieves robust dodging performance without the need for an external target identity. Extensive evaluations on open-source FR models and commercial APIs show that MASQUE significantly enhances privacy protection over all baselines, achieving average protection success rates of 90% for identification and 87% for verification while preserving high perceptual fidelity.
+abstract: As face recognition is increasingly adopted for government and commercial services, its potential misuse has raised serious concerns about privacy and civil rights. To counteract, various anti-facial recognition techniques have been proposed for privacy protection by adversarially perturbing face images, among which generative makeup-based approaches are the most popular. However, these methods, designed primarily to impersonate specific target identities, can only achieve weak dodging success rates while increasing the risk of targeted abuse. In addition, they often introduce global visual artifacts or a lack of adaptability to accommodate diverse makeup prompts, compromising user satisfaction. To address the above limitations, we develop MASQUE, a novel diffusion-based framework that generates localized adversarial makeups guided by user-defined text prompts. Built upon precise null-text inversion, customized cross-attention fusion with masking, and a pairwise adversarial guidance mechanism using images of the same individual, MASQUE achieves robust dodging performance without requiring any external identity. Comprehensive evaluations on open-source facial recognition models and commercial APIs demonstrate that MASQUE significantly improves dodging success rates over all baselines, along with higher perceptual fidelity preservation, stronger adaptability to various makeup prompts, and robustness to image transformations.
 
 
 # Summary. An optional shortened abstract.
@@ -45,8 +45,8 @@ links:
 - name: ArXiv
   url: 'https://arxiv.org/abs/2503.10549'
   
-- name: OpenReview
-  url: 'https://openreview.net/forum?id=ydTE0tpZ90'
+# - name: OpenReview
+#   url: 'https://openreview.net/forum?id=ydTE0tpZ90'
 
 url_pdf: 'https://arxiv.org/pdf/2503.10549'
 url_code: 'https://github.com/TrustMLRG/MASQUE'
@@ -79,6 +79,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+The short version of this work was presented at [FM-Wild Workshop](https://fm-wild-community.github.io/) at ICLR 2025. The workshop paper can be found on [Openreview](https://openreview.net/forum?id=ydTE0tpZ90).
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

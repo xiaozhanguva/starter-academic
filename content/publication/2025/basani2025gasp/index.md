@@ -11,7 +11,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 
-date: "2025-04-28T00:00:00Z"
+date: "2025-09-18T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,13 +21,13 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication:  ICLR 2025 Workshop on Building Trust in Language Models and Applications (Oral)
-publication_short: ICLR 2025 BuildingTrust Workshop (Oral)
+publication:  Thirty-nineth Conference on Neural Information Processing Systems
+publication_short: NeurIPS 2025
 
-abstract: Large Language Models (LLMs) have shown impressive proficiency across a range of natural language processing tasks yet remain vulnerable to adversarial prompts, known as jailbreak attacks, carefully designed to elicit harmful responses from LLMs. Traditional methods rely on manual heuristics, which suffer from limited generalizability. While being automatic, optimization-based attacks often produce unnatural jailbreak prompts that are easy to detect by safety filters or require high computational overhead due to discrete token optimization. Witnessing the limitations of existing jailbreak methods, we introduce Generative Adversarial Suffix Prompter (GASP), a novel framework that combines human-readable prompt generation with Latent Bayesian Optimization (LBO) to improve adversarial suffix creation in a fully black-box setting. GASP leverages LBO to craft adversarial suffixes by efficiently exploring continuous embedding spaces, gradually optimizing the model to improve attack efficacy while balancing prompt coherence through a targeted iterative refinement procedure. Our experiments show that GASP can generate natural jailbreak prompts, significantly improving attack success rates, reducing training times, and accelerating inference speed, thus making it an efficient and scalable solution for red-teaming LLMs.
+abstract: LLMs have shown impressive capabilities across various natural language processing tasks, yet remain vulnerable to input prompts, known as jailbreak attacks, carefully designed to bypass safety guardrails and elicit harmful responses. Traditional methods rely on manual heuristics but suffer from limited generalizability. Despite being automatic, optimization-based attacks often produce unnatural prompts that can be easily detected by safety filters or require high computational costs due to discrete token optimization. In this paper, we introduce Generative Adversarial Suffix Prompter (GASP), a novel automated framework that can efficiently generate human-readable jailbreak prompts in a fully black-box setting. In particular, GASP leverages latent Bayesian optimization to craft adversarial suffixes by efficiently exploring continuous latent embedding spaces, gradually optimizing the suffix prompter to improve attack efficacy while balancing prompt coherence via a targeted iterative refinement procedure. Through comprehensive experiments, we show that GASP can produce natural adversarial prompts, significantly improving jailbreak success over baselines, reducing training times, and accelerating inference speed, thus making it an efficient and scalable solution for red-teaming LLMs.
 
 
 # Summary. An optional shortened abstract.
@@ -39,7 +39,7 @@ tags:
 - Latent Bayesian Optimization
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 links:
@@ -47,7 +47,7 @@ links:
   url: 'https://arxiv.org/abs/2411.14133'
   
 - name: OpenReview
-  url: 'https://openreview.net/forum?id=Gonca78Bwq&noteId=uCKiVEXZCS'
+  url: 'https://openreview.net/forum?id=0fBQAckQK3'
 
 url_pdf: 'https://arxiv.org/pdf/2411.14133'
 url_code: 'https://github.com/TrustMLRG/GASP'
@@ -80,6 +80,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+The short version of this work was presented as an [oral paper](https://openreview.net/forum?id=Gonca78Bwq&noteId=uCKiVEXZCS) at the ICLR 2025 Workshop on [Building Trust in Language Models and Applications](https://building-trust-in-llms.github.io/iclr-workshop/oral_presentations_1.html).
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

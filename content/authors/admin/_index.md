@@ -66,7 +66,7 @@ email: ''
 **Research Interest:** My research spans a broad range of topics in machine learning (ML), with a primary focus on trustworthy AI, encompassing robustness, safety, privacy, bias, and interpretability. I'm also interested in deep learning theory, generative modeling, and optimization. Ultimately, my goal is to <font color ="#005b96">develop principled adversarial ML approaches to tackle the fundamental challenges in building reliable and trustworthy AI systems</font>. 
 
 
-I am always looking for self-motivated students interested in machine learning research, including PhD students, HiWis, intern and visiting students. Check my [recent publications](http://localhost:1313/#featured) and our lab website to learn more about the current focus and available positions.
+I am always looking for self-motivated students interested in machine learning research, including PhD students, HiWis, intern and visiting students. Check my [recent publications](https://xiao-zhang.net/#featured) and our lab website to learn more about the current focus and available positions.
 
 <!-- **Open Positions:** <span style="color:darkred"> I am looking for self-motivated students who are interested in trustworthy machine learning, including PhD students, research assistants, intern and visiting students. Check [Open Positions](position/) for more details.</span>  -->
 

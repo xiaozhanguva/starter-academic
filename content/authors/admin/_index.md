@@ -11,7 +11,7 @@ organizations:
   - name: CISPA Helmholtz Center for Information Security
     url: https://cispa.de/en
 
-bio: My research covers topics at the intersection of machine learning and security, with a special focus on trustworthy machine leanring, statistical machine learning, optimization, and deep learning.
+# bio: My research covers topics at the intersection of machine learning and security, with a special focus on trustworthy machine leanring, statistical machine learning, optimization, and deep learning.
 
 # interests: 
 # - Trustworthy Machine Learning
@@ -60,13 +60,14 @@ email: ''
 
 <br/>
 
-**Bio:** I am a tenure-track faculty at [CISPA Helmholtz Center for Information Security](https://cispa.de/en). Prior to that, I obtained my Ph.D. degree from [Department of Computer Science](https://engineering.virginia.edu/department/computer-science) at [University of Virginia](http://www.virginia.edu/) advised by [Prof. David Evans](https://www.cs.virginia.edu/~evans/) in 2022. I received my M.S. degree from [Department of Statistics](https://statistics.as.virginia.edu/) at University of Virginia and my B.S. degree in Mathematics and Applied Mathematics at [Tsinghua University](https://www.tsinghua.edu.cn/) in 2017 and 2015, respectively. I am also a member of the [European Laboratory for Learning and Intelligent Systems](https://ellis.eu/).
+**Bio:** I am a faculty member at [CISPA Helmholtz Center for Information Security](https://cispa.de/en), where I lead the AIR-ML Lab. Prior to this, I earned my PhD in Computer Science at the [University of Virginia](http://www.virginia.edu/), where I was advised by [Prof. David Evans](https://www.cs.virginia.edu/~evans/). I also hold an MS degree in Statistics from the University of Virginia and a BS degree in Mathematics and Applied Mathematics from [Tsinghua University](https://www.tsinghua.edu.cn/). I am a member of the [European Laboratory for Learning and Intelligent Systems](https://ellis.eu/), affiliated with [ELLIS Unit Saarbrücken](https://ellis.eu/units/saarbrucken).
 
 
-**Research Interests:** My research covers various topics in machine learning and security, including trustworthy machine learning, statistical machine learning, convex/non-convex optimization and deep learning. Recently, I focus on understanding the misbehavior of machine learning models against different adversaries and designing robust systems for various machine learning applications. 
+**Research Interest:** My research spans a broad range of topics in machine learning (ML), with a primary focus on trustworthy AI, encompassing robustness, safety, privacy, bias, and interpretability. I'm also interested in deep learning theory, generative modeling, and optimization. Ultimately, my goal is to <font color ="#005b96">develop principled adversarial ML approaches to tackle the fundamental challenges in building reliable and trustworthy AI systems</font>. 
 
-<!-- <span style="color:blue"> I am always looking for self-motivated students who are interested in trustworthy machine learning research, so I will be glad to hear from you. </span> -->
 
-**Open Positions:** <span style="color:darkred"> I am looking for self-motivated students who are interested in trustworthy machine learning, including PhD students, research assistants, intern and visiting students. Check [Open Positions](position/) for more details.</span> 
+I am always looking for self-motivated students interested in machine learning research, including PhD students, HiWis, intern and visiting students. Check my [recent publications](http://localhost:1313/#featured) and our lab website to learn more about the current focus and available positions.
+
+<!-- **Open Positions:** <span style="color:darkred"> I am looking for self-motivated students who are interested in trustworthy machine learning, including PhD students, research assistants, intern and visiting students. Check [Open Positions](position/) for more details.</span>  -->
 
 <!-- Here is my latest [CV](https://xiao-zhang.net/uploads/resume.pdf).  -->

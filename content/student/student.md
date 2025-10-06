@@ -8,7 +8,7 @@ title = "Students"
 # subtitle = "Leadership in formal education settings"
 +++
 
-<h2>Ph.D. Students</h2>
+<h2>PhD Students</h2>
 
 + [Santanu Rathod](https://santanurathod.github.io/) (12/2024 - present, [ELLIS](https://ellis.eu/) PhD, co-advised with [Pietro Liò](https://www.cl.cam.ac.uk/~pl219/))
 + [Yuelin Xu](https://xuyuelin88117.github.io/) (05/2025 - present)

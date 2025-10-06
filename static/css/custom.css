@@ -1,0 +1,9 @@
+/* Light mode (default) */
+.blue-highlight {
+  color: #004F85 !important;
+}
+
+/* Dark mode (Wowchemy uses .dark on body) */
+body.dark .blue-highlight {
+  color: #80c1ff !important;
+}

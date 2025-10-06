@@ -1,0 +1,59 @@
+{{ $page := . }}
+{{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }}
+
+{{/* Set default titles for node pages */}}
+{{ $title := .Title }}
+{{ if and (not $title) .IsNode }}
+  {{ if eq .Type "post" }}
+    {{ $title = i18n "posts" }}
+  {{ else if eq .Type "talk" }}
+    {{ $title = i18n "talks" }}
+  {{ else if eq .Type "publication" }}
+    {{ $title = i18n "publications" }}
+  {{end}}
+{{end}}
+
+<div class="article-container pt-3">
+
+  {{/* Page Title */}}
+  <h1 itemprop="name">{{ $title }}</h1>
+
+  {{/* Page Subtitle */}}
+  {{ with $page.Params.subtitle }}
+    <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
+  {{end}}
+
+  {{/* Page Metadata */}}
+  {{ partial "page_metadata" (dict "page" $page "is_list" 0 "share" true) }}
+
+  {{/* Page Links / Buttons */}}
+  {{ partial "page_links_div.html" $page }}
+
+  <!-- {{/* Abstract */}}
+  {{ with $page.Params.abstract }}
+    <div class="article-abstract mb-4">
+      <h3>Abstract</h3>
+      <p>{{ . | markdownify }}</p>
+    </div>
+  {{ end }} -->
+
+</div>
+
+{{/* Featured Image */}}
+{{ if and $featured (not .Params.image.preview_only) }}
+  {{ $image := $featured.Fit "1200x1200 q90 Smart" }}
+  <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width:720px; max-height:720px;">
+    <div style="position:relative;">
+      <img src="{{ $image.RelPermalink }}" alt class="featured-image">
+    </div>
+    {{ with $.Params.image.caption }}
+      <span class="article-header-caption">{{ . | markdownify | emojify }}</span>
+    {{ end }}
+  </div>
+{{end}}
+
+<div class="article-container">
+  {{/* Page content goes here */}}
+  <!-- {{ .Content }} -->
+</div>
+

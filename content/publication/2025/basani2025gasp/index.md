@@ -7,6 +7,7 @@ title: "GASP: Efficient Black-Box Generation of Adversarial Suffixes for Jailbre
 authors:
 - Advik Raj Basani
 - Xiao Zhang
+
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
@@ -80,7 +81,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-The short version of this work was presented as an [oral paper](https://openreview.net/forum?id=Gonca78Bwq&noteId=uCKiVEXZCS) at the ICLR 2025 Workshop on [Building Trust in Language Models and Applications](https://building-trust-in-llms.github.io/iclr-workshop/oral_presentations_1.html).
+A short version of this work was presented as an [oral paper](https://openreview.net/forum?id=Gonca78Bwq&noteId=uCKiVEXZCS) at the ICLR 2025 Workshop on [Building Trust in Language Models and Applications](https://building-trust-in-llms.github.io/iclr-workshop/oral_presentations_1.html).
 
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

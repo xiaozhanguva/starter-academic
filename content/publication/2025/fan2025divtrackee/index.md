@@ -89,6 +89,8 @@ projects:
 # slides: example
 ---
 
+This paper has been awarded the [Distinguished Paper Award at CCS 2025](https://www.sigsac.org/ccs/CCS2025/awards/)! Congratulations to Wenshu, Minxing, and all the co-authors"
+
 <!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}

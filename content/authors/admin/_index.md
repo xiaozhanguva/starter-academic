@@ -64,7 +64,7 @@ email: ''
 
 **Research Interest:** My research spans a broad range of topics in machine learning (ML), with a primary focus on trustworthy AI, encompassing robustness, safety, privacy, bias, and interpretability. I'm also interested in deep learning theory, generative modeling, and optimization. Ultimately, my goal is to <span class="blue-highlight">develop principled adversarial ML approaches to tackle the fundamental challenges in building reliable and trustworthy AI systems</span>. 
 
-I am always looking for self-motivated students interested in machine learning research, including PhD students, HiWis, intern and visiting students. An up-to-date list of my publications can be found on [Google Scholar](https://scholar.google.com/citations?user=L-lz7CUAAAAJ&hl=en). Please refer to our [lab website](https://air-ml.org) to learn more detailed information about the current research focus and available positions.
+I am always looking for self-motivated students interested in machine learning research, including PhD students, HiWis, intern and visiting students. An up-to-date list of my publications is available on [Google Scholar](https://scholar.google.com/citations?user=L-lz7CUAAAAJ&hl=en). Please visit our [lab website](https://air-ml.org) for more information about our current research directions and available positions.
 
 <!-- **Open Positions:** <span style="color:darkred"> I am looking for self-motivated students who are interested in trustworthy machine learning, including PhD students, research assistants, intern and visiting students. Check [Open Positions](position/) for more details.</span>  -->
 

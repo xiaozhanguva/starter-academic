@@ -14,6 +14,5 @@ header:
   caption: ""
   image: ""
 ---
-
-It has become difficult to update this page regularly. Please check my [Google Scholar](https://scholar.google.com/citations?user=L-lz7CUAAAAJ&hl=en) for the entire list of my publications and what I've been working on recently.
+It has become difficult to update this page regularly. Please check my [Google Scholar](https://scholar.google.com/citations?user=L-lz7CUAAAAJ&hl=en) profile to find the entire list of my publications and what I've been working on lately.
 

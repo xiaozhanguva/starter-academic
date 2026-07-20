@@ -37,7 +37,7 @@ social:
     link: /#contact
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=L-lz7CUAAAAJ&hl=en
+    link: https://scholar.google.com/citations?user=YIWcUycAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/xiaozhanguva
